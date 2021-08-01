@@ -41,17 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/tding.top",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 810,
     "timeDay": 810,
     "timeWeek": 810,
     "timeMonth": 810,
     "timeYear": 810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-01": 0
+    }
   },
   {
     "name": "Xu's Blog",
@@ -77,35 +79,39 @@
     "icon": "https://favicons.githubusercontent.com/baozi.fun",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 810,
     "timeDay": 810,
     "timeWeek": 810,
     "timeMonth": 810,
     "timeYear": 810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-01": 0
+    }
   },
   {
     "name": "Takagi",
     "url": "https://lixingyong.com",
     "icon": "https://favicons.githubusercontent.com/lixingyong.com",
     "slug": "takagi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 1887,
     "timeDay": 1887,
     "timeWeek": 1887,
     "timeMonth": 1887,
     "timeYear": 1887,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-01": 0
+    }
   },
   {
     "name": "千与千寻",
@@ -113,17 +119,19 @@
     "icon": "https://favicons.githubusercontent.com/www.chihiro.org.cn",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 810,
     "timeDay": 810,
     "timeWeek": 810,
     "timeMonth": 810,
     "timeYear": 810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-01": 0
+    }
   },
   {
     "name": "Bill Yang's Blog",
@@ -185,17 +193,19 @@
     "icon": "https://favicons.githubusercontent.com/joyli.net.cn",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 810,
     "timeDay": 810,
     "timeWeek": 810,
     "timeMonth": 810,
     "timeYear": 810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-01": 0
+    }
   },
   {
     "name": "大大的小蜗牛",
@@ -203,16 +213,18 @@
     "icon": "https://favicons.githubusercontent.com/eallion.com",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 810,
     "timeDay": 810,
     "timeWeek": 810,
     "timeMonth": 810,
     "timeYear": 810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-01": 0
+    }
   }
 ]
