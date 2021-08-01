@@ -3,14 +3,28 @@ owner: iwyang # Your GitHub organization or username, where this repository live
 repo: check # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: ConstOwn
+    url: https://blog.juanertu.com
+  - name: 小丁的个人博客
+    url: https://tding.top
+  - name: Xu's Blog
+    url: https://hasaik.com
+  - name: 知行志
+    url: https://baozi.fun
+  - name: Takagi
+    url: https://lixingyong.com
+  - name: 千与千寻
+    url: https://www.chihiro.org.cn
+  - name: Bill Yang's Blog
+    url: https://blog.bill.moe
+  - name: Sanarous's Blog
+    url: https://bestzuo.cn
+  - name: JACK小桔子的小屋
+    url: https://jackxjz.top
+  - name: 若只如初见
+    url: https://joyli.net.cn
+  - name: 大大的小蜗牛
+    url: https://eallion.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
