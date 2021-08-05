@@ -95,11 +95,11 @@
     "icon": "https://favicons.githubusercontent.com/lixingyong.com",
     "slug": "takagi",
     "status": "up",
-    "uptime": "83.91%",
+    "uptime": "84.37%",
     "uptimeDay": "88.46%",
-    "uptimeWeek": "83.91%",
-    "uptimeMonth": "83.91%",
-    "uptimeYear": "83.91%",
+    "uptimeWeek": "84.37%",
+    "uptimeMonth": "84.37%",
+    "uptimeYear": "84.37%",
     "time": 2073,
     "timeDay": 1925,
     "timeWeek": 2073,
@@ -118,9 +118,9 @@
     "url": "https://www.chihiro.org.cn",
     "icon": "https://favicons.githubusercontent.com/www.chihiro.org.cn",
     "slug": "03",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -129,7 +129,9 @@
     "timeWeek": 1630,
     "timeMonth": 1630,
     "timeYear": 1630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-05": 0
+    }
   },
   {
     "name": "Bill Yang's Blog",
