@@ -98,11 +98,11 @@
     "icon": "https://favicons.githubusercontent.com/lixingyong.com",
     "slug": "takagi",
     "status": "up",
-    "uptime": "87.96%",
+    "uptime": "88.00%",
     "uptimeDay": "94.45%",
     "uptimeWeek": "88.78%",
-    "uptimeMonth": "87.96%",
-    "uptimeYear": "87.96%",
+    "uptimeMonth": "88.00%",
+    "uptimeYear": "88.00%",
     "time": 2036,
     "timeDay": 1642,
     "timeWeek": 2083,
@@ -150,9 +150,9 @@
     "url": "https://blog.bill.moe",
     "icon": "https://favicons.githubusercontent.com/blog.bill.moe",
     "slug": "bill-yang-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,7 +161,9 @@
     "timeWeek": 1152,
     "timeMonth": 1201,
     "timeYear": 1201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-16": 0
+    }
   },
   {
     "name": "Sanarous's Blog",
