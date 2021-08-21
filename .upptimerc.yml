@@ -27,6 +27,8 @@ sites:
     url: https://joyli.net.cn
   - name: 05大大的小蜗牛
     url: https://eallion.com
+  - name: guole's Blog
+    url: https://guole.fun
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
