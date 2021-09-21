@@ -13,7 +13,7 @@
     "time": 540,
     "timeDay": 525,
     "timeWeek": 579,
-    "timeMonth": 535,
+    "timeMonth": 520,
     "timeYear": 540,
     "dailyMinutesDown": {
       "2021-08-17": 35,
@@ -35,7 +35,7 @@
     "time": 1630,
     "timeDay": 1119,
     "timeWeek": 1273,
-    "timeMonth": 1666,
+    "timeMonth": 1680,
     "timeYear": 1630,
     "dailyMinutesDown": {}
   },
@@ -53,7 +53,7 @@
     "time": 380,
     "timeDay": 327,
     "timeWeek": 348,
-    "timeMonth": 361,
+    "timeMonth": 353,
     "timeYear": 380,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 367,
     "timeDay": 321,
     "timeWeek": 365,
-    "timeMonth": 360,
+    "timeMonth": 363,
     "timeYear": 367,
     "dailyMinutesDown": {}
   },
@@ -89,7 +89,7 @@
     "time": 2006,
     "timeDay": 2280,
     "timeWeek": 1929,
-    "timeMonth": 2093,
+    "timeMonth": 2100,
     "timeYear": 2006,
     "dailyMinutesDown": {
       "2021-08-25": 16,
@@ -109,9 +109,9 @@
     "uptimeMonth": "93.04%",
     "uptimeYear": "95.81%",
     "time": 2147,
-    "timeDay": 2888,
+    "timeDay": 2941,
     "timeWeek": 2841,
-    "timeMonth": 2220,
+    "timeMonth": 2222,
     "timeYear": 2147,
     "dailyMinutesDown": {
       "2021-09-20": 192,
@@ -148,7 +148,7 @@
     "time": 1638,
     "timeDay": 2070,
     "timeWeek": 1908,
-    "timeMonth": 1652,
+    "timeMonth": 1655,
     "timeYear": 1638,
     "dailyMinutesDown": {
       "2021-09-19": 31,
@@ -165,11 +165,11 @@
     "icon": "https://favicons.githubusercontent.com/blog.bill.moe",
     "slug": "bill-yang-s-blog",
     "status": "up",
-    "uptime": "73.60%",
+    "uptime": "73.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.24%",
-    "uptimeYear": "73.60%",
+    "uptimeMonth": "70.37%",
+    "uptimeYear": "73.62%",
     "time": 1184,
     "timeDay": 1292,
     "timeWeek": 1165,
@@ -207,7 +207,7 @@
     "time": 1970,
     "timeDay": 3681,
     "timeWeek": 2048,
-    "timeMonth": 1949,
+    "timeMonth": 1939,
     "timeYear": 1970,
     "dailyMinutesDown": {}
   },
@@ -225,7 +225,7 @@
     "time": 797,
     "timeDay": 874,
     "timeWeek": 716,
-    "timeMonth": 754,
+    "timeMonth": 751,
     "timeYear": 797,
     "dailyMinutesDown": {}
   },
@@ -243,7 +243,7 @@
     "time": 317,
     "timeDay": 343,
     "timeWeek": 307,
-    "timeMonth": 311,
+    "timeMonth": 307,
     "timeYear": 317,
     "dailyMinutesDown": {}
   },
@@ -261,7 +261,7 @@
     "time": 193,
     "timeDay": 124,
     "timeWeek": 176,
-    "timeMonth": 187,
+    "timeMonth": 184,
     "timeYear": 193,
     "dailyMinutesDown": {}
   },
@@ -279,7 +279,7 @@
     "time": 292,
     "timeDay": 412,
     "timeWeek": 312,
-    "timeMonth": 292,
+    "timeMonth": 283,
     "timeYear": 292,
     "dailyMinutesDown": {}
   }
