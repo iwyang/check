@@ -102,12 +102,12 @@
     "url": "https://lixingyong.com",
     "icon": "https://favicons.githubusercontent.com/lixingyong.com",
     "slug": "takagi",
-    "status": "up",
-    "uptime": "96.99%",
-    "uptimeDay": "89.79%",
+    "status": "down",
+    "uptime": "97.01%",
+    "uptimeDay": "89.77%",
     "uptimeWeek": "94.75%",
-    "uptimeMonth": "93.18%",
-    "uptimeYear": "96.99%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "97.01%",
     "time": 2215,
     "timeDay": 2134,
     "timeWeek": 2271,
@@ -133,7 +133,7 @@
       "2021-09-22": 472,
       "2021-09-21": 211,
       "2021-09-20": 192,
-      "2021-09-19": 34
+      "2021-09-19": 15
     }
   },
   {
