@@ -212,19 +212,19 @@
     "url": "https://bestzuo.cn",
     "icon": "https://favicons.githubusercontent.com/bestzuo.cn",
     "slug": "sanarous-s-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1971,
-    "timeDay": 1825,
-    "timeWeek": 1859,
-    "timeMonth": 1987,
-    "timeYear": 1971,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1973,
+    "timeDay": 1956,
+    "timeWeek": 1888,
+    "timeMonth": 1990,
+    "timeYear": 1973,
     "dailyMinutesDown": {
-      "2021-10-15": 0
+      "2021-10-15": 9
     }
   },
   {
