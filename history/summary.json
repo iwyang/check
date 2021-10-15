@@ -106,17 +106,17 @@
     "slug": "takagi",
     "status": "up",
     "uptime": "97.21%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "95.25%",
-    "uptimeMonth": "93.11%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "93.09%",
     "uptimeYear": "97.21%",
     "time": 2200,
     "timeDay": 2070,
     "timeWeek": 1988,
-    "timeMonth": 2480,
+    "timeMonth": 2491,
     "timeYear": 2200,
     "dailyMinutesDown": {
-      "2021-10-15": 31,
+      "2021-10-15": 21,
       "2021-10-13": 164,
       "2021-10-12": 21,
       "2021-10-11": 65,
@@ -138,7 +138,7 @@
       "2021-09-24": 435,
       "2021-09-23": 247,
       "2021-09-22": 472,
-      "2021-09-21": 123
+      "2021-09-21": 142
     }
   },
   {
@@ -154,8 +154,8 @@
     "uptimeYear": "99.07%",
     "time": 2004,
     "timeDay": 1418,
-    "timeWeek": 1363,
-    "timeMonth": 2383,
+    "timeWeek": 1355,
+    "timeMonth": 2382,
     "timeYear": 2004,
     "dailyMinutesDown": {
       "2021-10-05": 16,
@@ -179,11 +179,11 @@
     "icon": "https://favicons.githubusercontent.com/blog.bill.moe",
     "slug": "bill-yang-s-blog",
     "status": "up",
-    "uptime": "82.25%",
+    "uptime": "82.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.25%",
+    "uptimeYear": "82.29%",
     "time": 1200,
     "timeDay": 1090,
     "timeWeek": 1170,
@@ -212,9 +212,9 @@
     "url": "https://bestzuo.cn",
     "icon": "https://favicons.githubusercontent.com/bestzuo.cn",
     "slug": "sanarous-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -223,7 +223,9 @@
     "timeWeek": 1859,
     "timeMonth": 1987,
     "timeYear": 1971,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-15": 0
+    }
   },
   {
     "name": "JACK小桔子的小屋",
