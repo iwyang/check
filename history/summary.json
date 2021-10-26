@@ -113,7 +113,7 @@
     "uptimeYear": "97.78%",
     "time": 2170,
     "timeDay": 1482,
-    "timeWeek": 1665,
+    "timeWeek": 1674,
     "timeMonth": 1963,
     "timeYear": 2170,
     "dailyMinutesDown": {
@@ -239,10 +239,10 @@
     "url": "https://jackxjz.top",
     "icon": "https://favicons.githubusercontent.com/jackxjz.top",
     "slug": "jack",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 788,
@@ -250,7 +250,9 @@
     "timeWeek": 721,
     "timeMonth": 786,
     "timeYear": 788,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-26": 1
+    }
   },
   {
     "name": "04若只如初见",
