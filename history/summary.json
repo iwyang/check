@@ -27,19 +27,19 @@
     "url": "https://blog.juanertu.com",
     "icon": "https://favicons.githubusercontent.com/blog.juanertu.com",
     "slug": "const-own",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1649,
-    "timeDay": 770,
-    "timeWeek": 1448,
-    "timeMonth": 1718,
-    "timeYear": 1649,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 1687,
+    "timeDay": 3048,
+    "timeWeek": 1933,
+    "timeMonth": 1827,
+    "timeYear": 1687,
     "dailyMinutesDown": {
-      "2021-10-27": 0
+      "2021-10-27": 24
     }
   },
   {
