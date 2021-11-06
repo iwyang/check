@@ -288,19 +288,19 @@
     "url": "https://eallion.com",
     "icon": "https://favicons.githubusercontent.com/eallion.com",
     "slug": "05",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
-    "time": 236,
-    "timeDay": 1342,
-    "timeWeek": 492,
-    "timeMonth": 293,
-    "timeYear": 236,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
+    "time": 246,
+    "timeDay": 1318,
+    "timeWeek": 578,
+    "timeMonth": 323,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2021-11-06": 24
+      "2021-11-06": 43
     }
   },
   {
