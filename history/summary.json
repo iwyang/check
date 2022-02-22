@@ -94,10 +94,10 @@
     "url": "https://lixingyong.com",
     "icon": "https://favicons.githubusercontent.com/lixingyong.com",
     "slug": "takagi",
-    "status": "up",
+    "status": "down",
     "uptime": "96.98%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "99.01%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "96.98%",
     "time": 2147,
@@ -106,7 +106,7 @@
     "timeMonth": 2809,
     "timeYear": 2147,
     "dailyMinutesDown": {
-      "2022-02-22": 60,
+      "2022-02-22": 61,
       "2022-02-16": 41,
       "2022-02-01": 16,
       "2022-01-31": 47,
@@ -151,7 +151,7 @@
       "2021-10-12": 21,
       "2021-10-11": 65,
       "2021-10-10": 18,
-      "2021-10-09": 50
+      "2021-10-09": 29
     }
   },
   {
@@ -159,19 +159,19 @@
     "url": "https://www.iilee.cn",
     "icon": "https://favicons.githubusercontent.com/www.iilee.cn",
     "slug": "ii-lee-blog",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 1845,
-    "timeDay": 1671,
-    "timeWeek": 1533,
-    "timeMonth": 1845,
-    "timeYear": 1845,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 2324,
+    "timeDay": 4442,
+    "timeWeek": 2379,
+    "timeMonth": 2324,
+    "timeYear": 2324,
     "dailyMinutesDown": {
-      "2022-02-22": 0,
+      "2022-02-22": 16,
       "2022-02-13": 39
     }
   },
