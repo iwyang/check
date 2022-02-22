@@ -95,18 +95,18 @@
     "icon": "https://favicons.githubusercontent.com/lixingyong.com",
     "slug": "takagi",
     "status": "down",
-    "uptime": "96.99%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "96.99%",
+    "uptime": "96.98%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "96.98%",
     "time": 2148,
     "timeDay": 1856,
     "timeWeek": 2069,
     "timeMonth": 2825,
     "timeYear": 2148,
     "dailyMinutesDown": {
-      "2022-02-22": 28,
+      "2022-02-22": 45,
       "2022-02-16": 41,
       "2022-02-01": 16,
       "2022-01-31": 47,
@@ -159,10 +159,10 @@
     "url": "https://www.iilee.cn",
     "icon": "https://favicons.githubusercontent.com/www.iilee.cn",
     "slug": "ii-lee-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 1855,
@@ -171,6 +171,7 @@
     "timeMonth": 1855,
     "timeYear": 1855,
     "dailyMinutesDown": {
+      "2022-02-22": 1,
       "2022-02-13": 39
     }
   },
@@ -259,9 +260,9 @@
     "url": "https://bestzuo.cn",
     "icon": "https://favicons.githubusercontent.com/bestzuo.cn",
     "slug": "sanarous",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -270,7 +271,9 @@
     "timeWeek": 1811,
     "timeMonth": 1809,
     "timeYear": 1809,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 0
+    }
   },
   {
     "name": "05大大的小蜗牛",
