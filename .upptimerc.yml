@@ -31,6 +31,8 @@ sites:
     url: https://akilar.top
   - name: Coding World Web
     url: https://codingworldweb.blogspot.com/
+  - name: Slcp の童话镇
+    url: https://slcp.top 
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
