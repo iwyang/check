@@ -96,9 +96,9 @@
     "slug": "takagi",
     "status": "up",
     "uptime": "97.11%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "97.11%",
     "time": 2141,
     "timeDay": 1710,
@@ -106,7 +106,6 @@
     "timeMonth": 1892,
     "timeYear": 2141,
     "dailyMinutesDown": {
-      "2022-03-03": 12,
       "2022-03-02": 15,
       "2022-02-28": 23,
       "2022-02-22": 79,
@@ -152,7 +151,7 @@
       "2021-10-15": 21,
       "2021-10-13": 164,
       "2021-10-12": 21,
-      "2021-10-11": 47
+      "2021-10-11": 65
     }
   },
   {
@@ -160,9 +159,9 @@
     "url": "https://www.iilee.cn",
     "icon": "https://favicons.githubusercontent.com/www.iilee.cn",
     "slug": "ii-lee-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
@@ -172,6 +171,7 @@
     "timeMonth": 2041,
     "timeYear": 2041,
     "dailyMinutesDown": {
+      "2022-03-03": 0,
       "2022-02-22": 16,
       "2022-02-13": 39
     }
