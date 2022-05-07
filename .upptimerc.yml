@@ -33,6 +33,8 @@ sites:
     url: https://codingworldweb.blogspot.com/
   - name: Slcp の童话镇
     url: https://slcp.top 
+  - name: Nekolas's Blog
+    url: https://blog.nekolas.cafe/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
