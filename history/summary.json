@@ -6,7 +6,7 @@
     "slug": "bore-s-notes",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "73.05%",
+    "uptimeDay": "73.87%",
     "uptimeWeek": "88.44%",
     "uptimeMonth": "97.08%",
     "uptimeYear": "99.58%",
@@ -102,9 +102,9 @@
     "url": "https://lixingyong.com",
     "icon": "https://favicons.githubusercontent.com/lixingyong.com",
     "slug": "takagi",
-    "status": "up",
+    "status": "down",
     "uptime": "97.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.39%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "97.94%",
@@ -114,6 +114,7 @@
     "timeMonth": 2403,
     "timeYear": 2155,
     "dailyMinutesDown": {
+      "2022-05-28": 0,
       "2022-05-27": 57,
       "2022-05-26": 30,
       "2022-05-25": 24,
@@ -171,8 +172,7 @@
       "2021-11-21": 1053,
       "2021-11-10": 924,
       "2021-11-09": 422,
-      "2021-11-06": 17,
-      "2021-11-05": 24
+      "2021-11-06": 17
     }
   },
   {
@@ -449,7 +449,7 @@
     "uptimeMonth": "99.14%",
     "uptimeYear": "94.94%",
     "time": 1554,
-    "timeDay": 994,
+    "timeDay": 991,
     "timeWeek": 832,
     "timeMonth": 849,
     "timeYear": 1554,
