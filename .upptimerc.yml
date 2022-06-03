@@ -33,6 +33,8 @@ sites:
     url: https://slcp.top 
   - name: Nekolas's Blog
     url: https://blog.nekolas.cafe/
+   - name: 06知行记
+    url: https://baozi.fun/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
