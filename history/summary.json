@@ -200,19 +200,19 @@
     "url": "https://eallion.com",
     "icon": "https://favicons.githubusercontent.com/eallion.com",
     "slug": "10",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1200,
-    "timeDay": 1200,
-    "timeWeek": 1200,
-    "timeMonth": 1200,
-    "timeYear": 1200,
+    "status": "up",
+    "uptime": "97.29%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "97.29%",
+    "time": 1234,
+    "timeDay": 1234,
+    "timeWeek": 1234,
+    "timeMonth": 1234,
+    "timeYear": 1234,
     "dailyMinutesDown": {
-      "2022-06-03": 0
+      "2022-06-03": 9
     }
   },
   {
@@ -268,7 +268,7 @@
     "timeMonth": 1330,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2022-06-03": 307
+      "2022-06-03": 315
     }
   },
   {
