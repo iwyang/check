@@ -110,18 +110,20 @@
     "url": "https://lixingyong.com",
     "icon": "https://favicons.githubusercontent.com/lixingyong.com",
     "slug": "05-takagi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 1561,
     "timeDay": 1561,
     "timeWeek": 1561,
     "timeMonth": 1561,
     "timeYear": 1561,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   },
   {
     "name": "06IILeeのBlog",
@@ -255,18 +257,18 @@
     "icon": "https://favicons.githubusercontent.com/akilar.top",
     "slug": "13-akilar",
     "status": "down",
-    "uptime": "8.63%",
-    "uptimeDay": "8.63%",
-    "uptimeWeek": "8.63%",
-    "uptimeMonth": "8.63%",
-    "uptimeYear": "8.63%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 1330,
     "timeDay": 1330,
     "timeWeek": 1330,
     "timeMonth": 1330,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2022-06-03": 1
+      "2022-06-03": 73
     }
   },
   {
