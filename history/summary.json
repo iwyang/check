@@ -110,19 +110,19 @@
     "url": "https://lixingyong.com",
     "icon": "https://favicons.githubusercontent.com/lixingyong.com",
     "slug": "05-takagi",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
-    "time": 1561,
-    "timeDay": 1561,
-    "timeWeek": 1561,
-    "timeMonth": 1561,
-    "timeYear": 1561,
+    "status": "up",
+    "uptime": "88.90%",
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "88.90%",
+    "uptimeMonth": "88.90%",
+    "uptimeYear": "88.90%",
+    "time": 1478,
+    "timeDay": 1478,
+    "timeWeek": 1478,
+    "timeMonth": 1478,
+    "timeYear": 1478,
     "dailyMinutesDown": {
-      "2022-06-03": 0
+      "2022-06-03": 9
     }
   },
   {
@@ -257,18 +257,18 @@
     "icon": "https://favicons.githubusercontent.com/akilar.top",
     "slug": "13-akilar",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 1330,
     "timeDay": 1330,
     "timeWeek": 1330,
     "timeMonth": 1330,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2022-06-03": 73
+      "2022-06-03": 83
     }
   },
   {
