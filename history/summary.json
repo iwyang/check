@@ -4,18 +4,20 @@
     "url": "https://bore.vip",
     "icon": "https://favicons.githubusercontent.com/bore.vip",
     "slug": "01-bore-s-notes",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 715,
-    "timeDay": 727,
-    "timeWeek": 715,
-    "timeMonth": 715,
-    "timeYear": 715,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 610,
+    "timeDay": 583,
+    "timeWeek": 610,
+    "timeMonth": 610,
+    "timeYear": 610,
+    "dailyMinutesDown": {
+      "2022-06-04": 1
+    }
   },
   {
     "name": "02ConstOwn",
@@ -111,11 +113,11 @@
     "icon": "https://favicons.githubusercontent.com/lixingyong.com",
     "slug": "05-takagi",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.72%",
     "uptimeDay": "98.54%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.67%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "98.72%",
     "time": 1446,
     "timeDay": 1426,
     "timeWeek": 1446,
@@ -131,18 +133,18 @@
     "icon": "https://favicons.githubusercontent.com/www.iilee.cn",
     "slug": "06-ii-lee-blog",
     "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
+    "uptime": "99.07%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
     "time": 1450,
     "timeDay": 1475,
     "timeWeek": 1450,
     "timeMonth": 1450,
     "timeYear": 1450,
     "dailyMinutesDown": {
-      "2022-06-04": 24
+      "2022-06-04": 15
     }
   },
   {
@@ -270,7 +272,7 @@
     "timeMonth": 1622,
     "timeYear": 1622,
     "dailyMinutesDown": {
-      "2022-06-04": 885,
+      "2022-06-04": 945,
       "2022-06-03": 689
     }
   },
