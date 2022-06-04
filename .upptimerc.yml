@@ -29,11 +29,9 @@ sites:
     url: https://cywhat.cn
   - name: 13Akilarの糖果屋
     url: https://akilar.top
-  - name: 14Slcp の童话镇
-    url: https://slcp.top 
-  - name: 15Nekolas's Blog
+  - name: 14Nekolas's Blog
     url: https://blog.nekolas.cafe/
-  - name: 16知行记
+  - name: 15知行记
     url: https://baozi.fun/
     
 status-website:
