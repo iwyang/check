@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/bore.vip",
     "slug": "01-bore-s-notes",
     "status": "up",
-    "uptime": "97.03%",
-    "uptimeDay": "96.17%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "97.66%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "97.66%",
     "time": 823,
     "timeDay": 845,
     "timeWeek": 823,
     "timeMonth": 823,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2022-06-04": 55
+      "2022-06-04": 44
     }
   },
   {
@@ -113,11 +113,11 @@
     "icon": "https://favicons.githubusercontent.com/lixingyong.com",
     "slug": "05-takagi",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "98.54%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
     "time": 1446,
     "timeDay": 1426,
     "timeWeek": 1446,
@@ -132,9 +132,9 @@
     "url": "https://www.iilee.cn",
     "icon": "https://favicons.githubusercontent.com/www.iilee.cn",
     "slug": "06-ii-lee-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.08%",
-    "uptimeDay": "97.53%",
+    "uptimeDay": "97.50%",
     "uptimeWeek": "98.08%",
     "uptimeMonth": "98.08%",
     "uptimeYear": "98.08%",
@@ -272,7 +272,7 @@
     "timeMonth": 1622,
     "timeYear": 1622,
     "dailyMinutesDown": {
-      "2022-06-04": 1165,
+      "2022-06-04": 1186,
       "2022-06-03": 689
     }
   },
