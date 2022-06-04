@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/bore.vip",
     "slug": "01-bore-s-notes",
     "status": "up",
-    "uptime": "97.67%",
+    "uptime": "97.70%",
     "uptimeDay": "96.96%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "97.67%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
     "time": 823,
     "timeDay": 845,
     "timeWeek": 823,
@@ -112,19 +112,19 @@
     "url": "https://lixingyong.com",
     "icon": "https://favicons.githubusercontent.com/lixingyong.com",
     "slug": "05-takagi",
-    "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
-    "time": 1446,
-    "timeDay": 1426,
-    "timeWeek": 1446,
-    "timeMonth": 1446,
-    "timeYear": 1446,
+    "status": "up",
+    "uptime": "97.91%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "97.91%",
+    "time": 1501,
+    "timeDay": 1513,
+    "timeWeek": 1501,
+    "timeMonth": 1501,
+    "timeYear": 1501,
     "dailyMinutesDown": {
-      "2022-06-04": 21
+      "2022-06-04": 40
     }
   },
   {
@@ -133,18 +133,18 @@
     "icon": "https://favicons.githubusercontent.com/www.iilee.cn",
     "slug": "06-ii-lee-blog",
     "status": "up",
-    "uptime": "97.58%",
-    "uptimeDay": "96.84%",
-    "uptimeWeek": "97.58%",
-    "uptimeMonth": "97.58%",
-    "uptimeYear": "97.58%",
+    "uptime": "98.13%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "98.13%",
     "time": 1544,
     "timeDay": 1575,
     "timeWeek": 1544,
     "timeMonth": 1544,
     "timeYear": 1544,
     "dailyMinutesDown": {
-      "2022-06-04": 45
+      "2022-06-04": 35
     }
   },
   {
@@ -272,7 +272,7 @@
     "timeMonth": 1622,
     "timeYear": 1622,
     "dailyMinutesDown": {
-      "2022-06-04": 1196,
+      "2022-06-04": 1214,
       "2022-06-03": 689
     }
   },
