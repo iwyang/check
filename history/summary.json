@@ -111,13 +111,13 @@
     "icon": "https://favicons.githubusercontent.com/lixingyong.com",
     "slug": "05-takagi",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.62%",
     "uptimeDay": "98.54%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.59%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.62%",
     "time": 1446,
-    "timeDay": 1418,
+    "timeDay": 1426,
     "timeWeek": 1446,
     "timeMonth": 1446,
     "timeYear": 1446,
@@ -130,18 +130,20 @@
     "url": "https://www.iilee.cn",
     "icon": "https://favicons.githubusercontent.com/www.iilee.cn",
     "slug": "06-ii-lee-blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1523,
     "timeDay": 1588,
     "timeWeek": 1523,
     "timeMonth": 1523,
     "timeYear": 1523,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-04": 0
+    }
   },
   {
     "name": "07Bill Yang's Blog",
@@ -268,7 +270,7 @@
     "timeMonth": 1622,
     "timeYear": 1622,
     "dailyMinutesDown": {
-      "2022-06-04": 793,
+      "2022-06-04": 834,
       "2022-06-03": 689
     }
   },
