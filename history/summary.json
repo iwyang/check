@@ -128,18 +128,20 @@
     "url": "https://www.iilee.cn",
     "icon": "https://favicons.githubusercontent.com/www.iilee.cn",
     "slug": "06-ii-lee-blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1435,
     "timeDay": 1435,
     "timeWeek": 1435,
     "timeMonth": 1435,
     "timeYear": 1435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-04": 0
+    }
   },
   {
     "name": "07Bill Yang's Blog",
@@ -266,7 +268,7 @@
     "timeMonth": 1622,
     "timeYear": 1622,
     "dailyMinutesDown": {
-      "2022-06-04": 513,
+      "2022-06-04": 695,
       "2022-06-03": 689
     }
   },
