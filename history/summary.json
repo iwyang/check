@@ -221,9 +221,9 @@
     "url": "https://blog.bill.moe",
     "icon": "https://favicons.githubusercontent.com/blog.bill.moe",
     "slug": "07-bill-yang-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -232,7 +232,9 @@
     "timeWeek": 1247,
     "timeMonth": 1231,
     "timeYear": 1217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-10": 0
+    }
   },
   {
     "name": "08若只如初见",
@@ -364,11 +366,11 @@
     "icon": "https://favicons.githubusercontent.com/akilar.top",
     "slug": "13-akilar",
     "status": "down",
-    "uptime": "20.94%",
+    "uptime": "21.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.19%",
-    "uptimeYear": "20.94%",
+    "uptimeMonth": "43.42%",
+    "uptimeYear": "21.02%",
     "time": 1457,
     "timeDay": 1235,
     "timeWeek": 1559,
