@@ -44,7 +44,9 @@ sites:
   - name: 20Leonus
     url: https://blog.leonus.cn/    
   - name: 21Eurkon
-    url: https://blog.eurkon.com/    
+    url: https://blog.eurkon.com/ 
+  - name: 22六月长河
+    url: https://kingpo.vercel.app/    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
