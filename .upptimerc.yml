@@ -49,6 +49,8 @@ sites:
     url: https://kingpo.vercel.app/    
   - name: 23心流
     url: https://blog.panghai.top/
+  - name: 24Braindance
+    url: https://www.penginman.com   
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
