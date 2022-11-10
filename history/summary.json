@@ -13,7 +13,7 @@
     "time": 569,
     "timeDay": 289,
     "timeWeek": 385,
-    "timeMonth": 440,
+    "timeMonth": 434,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2022-08-07": 16,
@@ -36,7 +36,7 @@
     "time": 1403,
     "timeDay": 1248,
     "timeWeek": 1231,
-    "timeMonth": 1535,
+    "timeMonth": 1548,
     "timeYear": 1403,
     "dailyMinutesDown": {
       "2022-10-28": 18,
@@ -93,7 +93,7 @@
     "time": 1874,
     "timeDay": 1486,
     "timeWeek": 1523,
-    "timeMonth": 1732,
+    "timeMonth": 1634,
     "timeYear": 1874,
     "dailyMinutesDown": {
       "2022-11-04": 22,
@@ -163,7 +163,7 @@
     "time": 1693,
     "timeDay": 1294,
     "timeWeek": 1433,
-    "timeMonth": 1738,
+    "timeMonth": 1742,
     "timeYear": 1693,
     "dailyMinutesDown": {
       "2022-11-02": 61,
@@ -228,15 +228,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.bill.moe.ico",
     "slug": "07-bill-yang-s-blog",
     "status": "up",
-    "uptime": "68.22%",
+    "uptime": "68.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.22%",
+    "uptimeYear": "68.23%",
     "time": 1231,
     "timeDay": 1118,
     "timeWeek": 1247,
-    "timeMonth": 1258,
+    "timeMonth": 1257,
     "timeYear": 1231,
     "dailyMinutesDown": {
       "2022-09-30": 662,
@@ -307,7 +307,7 @@
     "time": 372,
     "timeDay": 327,
     "timeWeek": 355,
-    "timeMonth": 485,
+    "timeMonth": 488,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2022-09-15": 39
@@ -327,7 +327,7 @@
     "time": 1946,
     "timeDay": 1545,
     "timeWeek": 1811,
-    "timeMonth": 1976,
+    "timeMonth": 1982,
     "timeYear": 1946,
     "dailyMinutesDown": {
       "2022-11-09": 16,
@@ -348,15 +348,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/eallion.com.ico",
     "slug": "10",
     "status": "down",
-    "uptime": "93.25%",
+    "uptime": "93.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "55.88%",
+    "uptimeWeek": "57.18%",
     "uptimeMonth": "69.45%",
-    "uptimeYear": "93.25%",
+    "uptimeYear": "93.26%",
     "time": 1423,
     "timeDay": 97,
     "timeWeek": 124,
-    "timeMonth": 1005,
+    "timeMonth": 1004,
     "timeYear": 1423,
     "dailyMinutesDown": {
       "2022-11-06": 83,
@@ -439,7 +439,7 @@
     "time": 333,
     "timeDay": 189,
     "timeWeek": 270,
-    "timeMonth": 354,
+    "timeMonth": 352,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2022-09-15": 39
@@ -459,7 +459,7 @@
     "time": 476,
     "timeDay": 298,
     "timeWeek": 319,
-    "timeMonth": 748,
+    "timeMonth": 752,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2022-08-09": 213
@@ -471,15 +471,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/akilar.top.ico",
     "slug": "13-akilar",
     "status": "up",
-    "uptime": "65.51%",
+    "uptime": "65.53%",
     "uptimeDay": "98.49%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.10%",
-    "uptimeYear": "65.51%",
+    "uptimeYear": "65.53%",
     "time": 1159,
     "timeDay": 843,
     "timeWeek": 648,
-    "timeMonth": 827,
+    "timeMonth": 832,
     "timeYear": 1159,
     "dailyMinutesDown": {
       "2022-11-09": 22,
@@ -591,7 +591,7 @@
     "time": 563,
     "timeDay": 292,
     "timeWeek": 395,
-    "timeMonth": 814,
+    "timeMonth": 825,
     "timeYear": 563,
     "dailyMinutesDown": {}
   },
@@ -609,7 +609,7 @@
     "time": 1565,
     "timeDay": 1357,
     "timeWeek": 1456,
-    "timeMonth": 1419,
+    "timeMonth": 1422,
     "timeYear": 1565,
     "dailyMinutesDown": {
       "2022-09-16": 27,
@@ -631,7 +631,7 @@
     "time": 532,
     "timeDay": 140,
     "timeWeek": 248,
-    "timeMonth": 249,
+    "timeMonth": 245,
     "timeYear": 532,
     "dailyMinutesDown": {
       "2022-09-13": 82,
@@ -658,7 +658,7 @@
     "time": 1670,
     "timeDay": 1943,
     "timeWeek": 2949,
-    "timeMonth": 2259,
+    "timeMonth": 2269,
     "timeYear": 1670,
     "dailyMinutesDown": {
       "2022-11-09": 16,
@@ -699,7 +699,7 @@
     "time": 227,
     "timeDay": 104,
     "timeWeek": 178,
-    "timeMonth": 195,
+    "timeMonth": 194,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -717,7 +717,7 @@
     "time": 1298,
     "timeDay": 1075,
     "timeWeek": 1194,
-    "timeMonth": 1259,
+    "timeMonth": 1260,
     "timeYear": 1298,
     "dailyMinutesDown": {
       "2022-11-08": 18,
@@ -741,7 +741,7 @@
     "time": 509,
     "timeDay": 424,
     "timeWeek": 348,
-    "timeMonth": 729,
+    "timeMonth": 738,
     "timeYear": 509,
     "dailyMinutesDown": {}
   },
@@ -759,7 +759,7 @@
     "time": 308,
     "timeDay": 48,
     "timeWeek": 75,
-    "timeMonth": 552,
+    "timeMonth": 564,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2022-09-13": 359
@@ -771,15 +771,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.panghai.top.ico",
     "slug": "23",
     "status": "up",
-    "uptime": "97.16%",
+    "uptime": "97.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.95%",
     "uptimeMonth": "95.39%",
-    "uptimeYear": "97.16%",
+    "uptimeYear": "97.17%",
     "time": 3036,
     "timeDay": 2722,
     "timeWeek": 2579,
-    "timeMonth": 2635,
+    "timeMonth": 2641,
     "timeYear": 3036,
     "dailyMinutesDown": {
       "2022-11-08": 95,
