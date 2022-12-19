@@ -464,7 +464,7 @@
     "uptime": "67.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.17%",
+    "uptimeMonth": "82.23%",
     "uptimeYear": "67.32%",
     "time": 1206,
     "timeDay": 1268,
@@ -586,18 +586,20 @@
     "url": "https://blog.nekolas.cafe/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.nekolas.cafe.ico",
     "slug": "14-nekolas-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 539,
-    "timeDay": 505,
-    "timeWeek": 509,
-    "timeMonth": 451,
-    "timeYear": 539,
-    "dailyMinutesDown": {}
+    "time": 538,
+    "timeDay": 353,
+    "timeWeek": 471,
+    "timeMonth": 443,
+    "timeYear": 538,
+    "dailyMinutesDown": {
+      "2022-12-19": 1
+    }
   },
   {
     "name": "15知行记",
