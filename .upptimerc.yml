@@ -48,7 +48,9 @@ sites:
   - name: 24Braindance
     url: https://www.penginman.com   
   - name: 25轻笑Chuckle
-    url: https://www.chuckle.top     
+    url: https://www.chuckle.top
+  - name: 26七鳄学习格
+    url: https://blog.gmcj0816.top/  
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
