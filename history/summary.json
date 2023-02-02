@@ -74,18 +74,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
     "status": "up",
-    "uptime": "98.61%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "98.61%",
+    "uptime": "98.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "98.60%",
     "time": 2616,
     "timeDay": 4277,
     "timeWeek": 3951,
     "timeMonth": 3858,
     "timeYear": 2616,
     "dailyMinutesDown": {
-      "2023-02-02": 9,
       "2023-02-01": 16,
       "2023-01-30": 19,
       "2023-01-22": 67,
@@ -153,7 +152,8 @@
       "2022-07-09": 41,
       "2022-07-07": 21,
       "2022-07-04": 16,
-      "2022-07-03": 17
+      "2022-07-03": 17,
+      "2022-07-02": 20
     }
   },
   {
@@ -252,7 +252,7 @@
     "uptime": "76.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.20%",
+    "uptimeMonth": "88.22%",
     "uptimeYear": "76.08%",
     "time": 1250,
     "timeDay": 0,
@@ -733,19 +733,19 @@
     "url": "https://sianx.com",
     "icon": "https://icons.duckduckgo.com/ip3/sianx.com.ico",
     "slug": "19-sianx-s-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 166,
-    "timeWeek": 179,
+    "time": 225,
+    "timeDay": 183,
+    "timeWeek": 181,
     "timeMonth": 218,
-    "timeYear": 226,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2023-02-02": 1
+      "2023-02-02": 10
     }
   },
   {
