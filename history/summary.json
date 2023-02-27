@@ -13,7 +13,7 @@
     "time": 545,
     "timeDay": 409,
     "timeWeek": 574,
-    "timeMonth": 537,
+    "timeMonth": 548,
     "timeYear": 545,
     "dailyMinutesDown": {
       "2022-08-07": 16,
@@ -36,7 +36,7 @@
     "time": 1370,
     "timeDay": 1700,
     "timeWeek": 1288,
-    "timeMonth": 1307,
+    "timeMonth": 1317,
     "timeYear": 1370,
     "dailyMinutesDown": {
       "2023-01-07": 170,
@@ -59,7 +59,7 @@
     "time": 653,
     "timeDay": 689,
     "timeWeek": 449,
-    "timeMonth": 384,
+    "timeMonth": 387,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2022-09-15": 39
@@ -79,7 +79,7 @@
     "time": 2898,
     "timeDay": 3693,
     "timeWeek": 4144,
-    "timeMonth": 4811,
+    "timeMonth": 4852,
     "timeYear": 2898,
     "dailyMinutesDown": {
       "2023-02-26": 18,
@@ -166,7 +166,7 @@
     "time": 1671,
     "timeDay": 1577,
     "timeWeek": 1578,
-    "timeMonth": 1722,
+    "timeMonth": 1732,
     "timeYear": 1671,
     "dailyMinutesDown": {
       "2023-02-12": 27,
@@ -334,7 +334,7 @@
     "time": 360,
     "timeDay": 609,
     "timeWeek": 452,
-    "timeMonth": 354,
+    "timeMonth": 359,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2022-09-15": 39
@@ -346,11 +346,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eallion.com.ico",
     "slug": "10",
     "status": "up",
-    "uptime": "95.99%",
+    "uptime": "96.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.99%",
+    "uptimeYear": "96.00%",
     "time": 1130,
     "timeDay": 168,
     "timeWeek": 217,
@@ -437,7 +437,7 @@
     "time": 329,
     "timeDay": 282,
     "timeWeek": 340,
-    "timeMonth": 426,
+    "timeMonth": 434,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2022-09-15": 39
@@ -457,7 +457,7 @@
     "time": 440,
     "timeDay": 416,
     "timeWeek": 434,
-    "timeMonth": 367,
+    "timeMonth": 371,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2023-02-11": 35,
@@ -469,19 +469,19 @@
     "url": "https://akilar.top",
     "icon": "https://icons.duckduckgo.com/ip3/akilar.top.ico",
     "slug": "13-akilar",
-    "status": "down",
-    "uptime": "75.74%",
-    "uptimeDay": "95.00%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "75.74%",
+    "status": "up",
+    "uptime": "75.73%",
+    "uptimeDay": "92.29%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "75.73%",
     "time": 1231,
-    "timeDay": 1937,
-    "timeWeek": 1487,
-    "timeMonth": 1395,
+    "timeDay": 1616,
+    "timeWeek": 1466,
+    "timeMonth": 1402,
     "timeYear": 1231,
     "dailyMinutesDown": {
-      "2023-02-27": 72,
+      "2023-02-27": 111,
       "2023-02-17": 27,
       "2022-11-30": 19,
       "2022-11-25": 137,
@@ -606,7 +606,7 @@
     "time": 493,
     "timeDay": 269,
     "timeWeek": 442,
-    "timeMonth": 345,
+    "timeMonth": 352,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2022-12-19": 22
@@ -626,7 +626,7 @@
     "time": 1578,
     "timeDay": 1856,
     "timeWeek": 1554,
-    "timeMonth": 1456,
+    "timeMonth": 1469,
     "timeYear": 1578,
     "dailyMinutesDown": {
       "2023-01-25": 525,
@@ -660,7 +660,7 @@
     "time": 416,
     "timeDay": 364,
     "timeWeek": 299,
-    "timeMonth": 280,
+    "timeMonth": 284,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2022-09-13": 82,
@@ -687,7 +687,7 @@
     "time": 1938,
     "timeDay": 2149,
     "timeWeek": 2272,
-    "timeMonth": 2160,
+    "timeMonth": 2182,
     "timeYear": 1938,
     "dailyMinutesDown": {
       "2023-02-26": 18,
@@ -745,7 +745,7 @@
     "time": 225,
     "timeDay": 478,
     "timeWeek": 333,
-    "timeMonth": 214,
+    "timeMonth": 219,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -763,7 +763,7 @@
     "time": 1289,
     "timeDay": 1569,
     "timeWeek": 1324,
-    "timeMonth": 1299,
+    "timeMonth": 1311,
     "timeYear": 1289,
     "dailyMinutesDown": {
       "2023-02-22": 18,
@@ -791,7 +791,7 @@
     "time": 454,
     "timeDay": 334,
     "timeWeek": 451,
-    "timeMonth": 373,
+    "timeMonth": 376,
     "timeYear": 454,
     "dailyMinutesDown": {}
   },
@@ -809,7 +809,7 @@
     "time": 209,
     "timeDay": 88,
     "timeWeek": 102,
-    "timeMonth": 96,
+    "timeMonth": 98,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2022-09-13": 359
@@ -829,7 +829,7 @@
     "time": 2299,
     "timeDay": 659,
     "timeWeek": 660,
-    "timeMonth": 531,
+    "timeMonth": 530,
     "timeYear": 2299,
     "dailyMinutesDown": {
       "2022-12-15": 18,
@@ -896,7 +896,7 @@
     "time": 701,
     "timeDay": 5580,
     "timeWeek": 1246,
-    "timeMonth": 806,
+    "timeMonth": 812,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2023-02-24": 24,
@@ -923,7 +923,7 @@
     "time": 523,
     "timeDay": 379,
     "timeWeek": 460,
-    "timeMonth": 381,
+    "timeMonth": 387,
     "timeYear": 523,
     "dailyMinutesDown": {}
   },
@@ -941,7 +941,7 @@
     "time": 2520,
     "timeDay": 2790,
     "timeWeek": 2031,
-    "timeMonth": 2560,
+    "timeMonth": 2550,
     "timeYear": 2520,
     "dailyMinutesDown": {
       "2023-02-22": 18
@@ -961,7 +961,7 @@
     "time": 1269,
     "timeDay": 1569,
     "timeWeek": 1305,
-    "timeMonth": 1269,
+    "timeMonth": 1280,
     "timeYear": 1269,
     "dailyMinutesDown": {}
   }
