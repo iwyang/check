@@ -645,7 +645,7 @@
     "status": "down",
     "uptime": "86.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "52.10%",
+    "uptimeWeek": "52.00%",
     "uptimeMonth": "50.82%",
     "uptimeYear": "86.41%",
     "time": 1550,
@@ -654,7 +654,7 @@
     "timeMonth": 1326,
     "timeYear": 1550,
     "dailyMinutesDown": {
-      "2023-05-03": 1004,
+      "2023-05-03": 1013,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 945,
@@ -819,7 +819,7 @@
     "uptime": "92.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.16%",
+    "uptimeMonth": "68.18%",
     "uptimeYear": "92.30%",
     "time": 232,
     "timeDay": 318,
@@ -1102,19 +1102,19 @@
     "url": "https://meuicat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 2830,
-    "timeDay": 2830,
-    "timeWeek": 2830,
-    "timeMonth": 2830,
-    "timeYear": 2830,
+    "status": "up",
+    "uptime": "96.25%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "96.25%",
+    "uptimeYear": "96.25%",
+    "time": 3077,
+    "timeDay": 3077,
+    "timeWeek": 3077,
+    "timeMonth": 3077,
+    "timeYear": 3077,
     "dailyMinutesDown": {
-      "2023-05-03": 1
+      "2023-05-03": 10
     }
   }
 ]
