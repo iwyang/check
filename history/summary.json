@@ -76,11 +76,11 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "up",
+    "status": "down",
     "uptime": "95.89%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "95.89%",
     "time": 2697,
     "timeDay": 2491,
@@ -88,7 +88,7 @@
     "timeMonth": 1820,
     "timeYear": 2697,
     "dailyMinutesDown": {
-      "2023-05-15": 44,
+      "2023-05-15": 46,
       "2023-05-03": 18,
       "2023-04-30": 34,
       "2023-04-29": 16,
@@ -164,7 +164,7 @@
       "2022-11-27": 349,
       "2022-11-26": 186,
       "2022-11-25": 337,
-      "2022-11-22": 52
+      "2022-11-22": 28
     }
   },
   {
@@ -863,10 +863,10 @@
     "url": "https://blog.panghai.top/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.panghai.top.ico",
     "slug": "23",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "89.54%",
-    "uptimeWeek": "97.51%",
+    "uptimeDay": "89.43%",
+    "uptimeWeek": "97.50%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.14%",
     "time": 2067,
@@ -875,7 +875,7 @@
     "timeMonth": 1912,
     "timeYear": 2067,
     "dailyMinutesDown": {
-      "2023-05-15": 150,
+      "2023-05-15": 152,
       "2023-05-14": 36,
       "2023-05-13": 48,
       "2023-05-09": 16,
@@ -920,8 +920,7 @@
       "2022-09-09": 52,
       "2022-09-08": 59,
       "2022-09-07": 154,
-      "2022-09-06": 35,
-      "2022-09-05": 18
+      "2022-09-06": 35
     }
   },
   {
@@ -1036,10 +1035,10 @@
     "url": "https://meuicat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
-    "status": "up",
+    "status": "down",
     "uptime": "89.44%",
-    "uptimeDay": "87.27%",
-    "uptimeWeek": "86.62%",
+    "uptimeDay": "87.19%",
+    "uptimeWeek": "86.61%",
     "uptimeMonth": "89.44%",
     "uptimeYear": "89.44%",
     "time": 2983,
@@ -1048,7 +1047,7 @@
     "timeMonth": 2983,
     "timeYear": 2983,
     "dailyMinutesDown": {
-      "2023-05-15": 114,
+      "2023-05-15": 115,
       "2023-05-14": 250,
       "2023-05-13": 378,
       "2023-05-12": 293,
