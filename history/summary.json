@@ -76,9 +76,9 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "up",
+    "status": "down",
     "uptime": "95.89%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "98.71%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "95.89%",
@@ -88,7 +88,7 @@
     "timeMonth": 1705,
     "timeYear": 2691,
     "dailyMinutesDown": {
-      "2023-05-15": 18,
+      "2023-05-15": 19,
       "2023-05-03": 18,
       "2023-04-30": 34,
       "2023-04-29": 16,
@@ -164,7 +164,7 @@
       "2022-11-27": 349,
       "2022-11-26": 186,
       "2022-11-25": 337,
-      "2022-11-22": 93
+      "2022-11-22": 52
     }
   },
   {
@@ -173,18 +173,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iilee.cn.ico",
     "slug": "06-ii-lee-blog",
     "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "98.19%",
-    "uptimeYear": "99.33%",
+    "uptime": "99.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "99.32%",
     "time": 1772,
     "timeDay": 1494,
     "timeWeek": 1674,
     "timeMonth": 2078,
     "timeYear": 1772,
     "dailyMinutesDown": {
-      "2023-05-15": 9,
       "2023-05-11": 17,
       "2023-05-08": 19,
       "2023-05-03": 86,
@@ -257,7 +256,8 @@
       "2022-07-03": 130,
       "2022-07-02": 63,
       "2022-07-01": 21,
-      "2022-06-29": 106
+      "2022-06-29": 167,
+      "2022-06-28": 5
     }
   },
   {
@@ -1038,14 +1038,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
     "status": "up",
-    "uptime": "89.36%",
-    "uptimeDay": "87.04%",
-    "uptimeWeek": "86.01%",
-    "uptimeMonth": "89.36%",
-    "uptimeYear": "89.36%",
+    "uptime": "89.38%",
+    "uptimeDay": "87.27%",
+    "uptimeWeek": "86.18%",
+    "uptimeMonth": "89.38%",
+    "uptimeYear": "89.38%",
     "time": 2983,
-    "timeDay": 2781,
-    "timeWeek": 2956,
+    "timeDay": 2738,
+    "timeWeek": 2962,
     "timeMonth": 2983,
     "timeYear": 2983,
     "dailyMinutesDown": {
