@@ -76,18 +76,19 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "up",
-    "uptime": "95.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "95.86%",
+    "status": "down",
+    "uptime": "95.89%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "95.89%",
     "time": 2698,
     "timeDay": 1476,
     "timeWeek": 1608,
     "timeMonth": 1730,
     "timeYear": 2698,
     "dailyMinutesDown": {
+      "2023-05-15": 1,
       "2023-05-03": 18,
       "2023-04-30": 34,
       "2023-04-29": 16,
@@ -163,8 +164,7 @@
       "2022-11-27": 349,
       "2022-11-26": 186,
       "2022-11-25": 337,
-      "2022-11-22": 93,
-      "2022-11-11": 131
+      "2022-11-22": 93
     }
   },
   {
@@ -863,19 +863,19 @@
     "url": "https://blog.panghai.top/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.panghai.top.ico",
     "slug": "23",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "95.99%",
-    "uptimeWeek": "98.25%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.14%",
     "time": 2056,
     "timeDay": 2593,
     "timeWeek": 2271,
     "timeMonth": 1838,
     "timeYear": 2056,
     "dailyMinutesDown": {
-      "2023-05-15": 57,
+      "2023-05-15": 58,
       "2023-05-14": 36,
       "2023-05-13": 48,
       "2023-05-09": 16,
@@ -924,7 +924,7 @@
       "2022-09-05": 18,
       "2022-09-04": 24,
       "2022-09-03": 15,
-      "2022-09-02": 64
+      "2022-09-02": 23
     }
   },
   {
