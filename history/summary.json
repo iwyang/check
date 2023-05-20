@@ -78,9 +78,9 @@
     "slug": "05-takagi",
     "status": "up",
     "uptime": "95.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "92.88%",
-    "uptimeMonth": "98.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.97%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "95.99%",
     "time": 2658,
     "timeDay": 1038,
@@ -88,7 +88,6 @@
     "timeMonth": 1744,
     "timeYear": 2658,
     "dailyMinutesDown": {
-      "2023-05-20": 9,
       "2023-05-19": 24,
       "2023-05-16": 479,
       "2023-05-15": 207,
@@ -164,7 +163,7 @@
       "2022-12-01": 75,
       "2022-11-29": 106,
       "2022-11-28": 86,
-      "2022-11-27": 57
+      "2022-11-27": 78
     }
   },
   {
@@ -346,18 +345,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/joyli.net.cn.ico",
     "slug": "08",
     "status": "down",
-    "uptime": "99.66%",
+    "uptime": "99.65%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.07%",
-    "uptimeMonth": "96.10%",
-    "uptimeYear": "99.66%",
+    "uptimeWeek": "82.77%",
+    "uptimeMonth": "96.03%",
+    "uptimeYear": "99.65%",
     "time": 365,
     "timeDay": 0,
     "timeWeek": 339,
     "timeMonth": 385,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2023-05-20": 1404,
+      "2023-05-20": 1434,
       "2023-05-19": 303,
       "2022-09-15": 39
     }
@@ -452,9 +451,9 @@
     "slug": "11guole-s-blog",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "64.59%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "62.50%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "98.77%",
     "uptimeYear": "99.89%",
     "time": 329,
     "timeDay": 1915,
@@ -462,7 +461,7 @@
     "timeMonth": 397,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2023-05-20": 510,
+      "2023-05-20": 540,
       "2022-09-15": 39
     }
   },
@@ -679,7 +678,7 @@
     "uptime": "95.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.01%",
-    "uptimeMonth": "98.01%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "95.71%",
     "time": 2120,
     "timeDay": 1651,
@@ -1031,19 +1030,19 @@
     "url": "https://meuicat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
-    "status": "up",
-    "uptime": "88.55%",
-    "uptimeDay": "80.81%",
+    "status": "down",
+    "uptime": "88.68%",
+    "uptimeDay": "80.76%",
     "uptimeWeek": "84.60%",
-    "uptimeMonth": "88.55%",
-    "uptimeYear": "88.55%",
+    "uptimeMonth": "88.68%",
+    "uptimeYear": "88.68%",
     "time": 3082,
-    "timeDay": 3180,
+    "timeDay": 3203,
     "timeWeek": 3159,
     "timeMonth": 3082,
     "timeYear": 3082,
     "dailyMinutesDown": {
-      "2023-05-20": 275,
+      "2023-05-20": 276,
       "2023-05-19": 264,
       "2023-05-18": 145,
       "2023-05-17": 133,
@@ -1059,7 +1058,7 @@
       "2023-05-07": 38,
       "2023-05-06": 70,
       "2023-05-05": 83,
-      "2023-05-04": 68
+      "2023-05-04": 39
     }
   }
 ]
