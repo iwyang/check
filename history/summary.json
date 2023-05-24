@@ -348,8 +348,8 @@
     "status": "down",
     "uptime": "98.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "32.95%",
-    "uptimeMonth": "84.57%",
+    "uptimeWeek": "32.75%",
+    "uptimeMonth": "84.52%",
     "uptimeYear": "98.67%",
     "time": 365,
     "timeDay": 0,
@@ -357,7 +357,7 @@
     "timeMonth": 387,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2023-05-24": 696,
+      "2023-05-24": 716,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -874,9 +874,9 @@
     "slug": "23",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "94.58%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "96.87%",
+    "uptimeDay": "95.23%",
+    "uptimeWeek": "95.18%",
+    "uptimeMonth": "96.89%",
     "uptimeYear": "99.32%",
     "time": 2118,
     "timeDay": 2195,
@@ -884,7 +884,7 @@
     "timeMonth": 2234,
     "timeYear": 2118,
     "dailyMinutesDown": {
-      "2023-05-24": 39,
+      "2023-05-24": 30,
       "2023-05-23": 71,
       "2023-05-22": 16,
       "2023-05-21": 68,
@@ -919,7 +919,7 @@
       "2022-10-26": 225,
       "2022-10-25": 99,
       "2022-10-24": 25,
-      "2022-10-23": 35
+      "2022-10-23": 54
     }
   },
   {
@@ -931,7 +931,7 @@
     "uptime": "95.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "97.88%",
+    "uptimeMonth": "97.92%",
     "uptimeYear": "95.67%",
     "time": 671,
     "timeDay": 575,
@@ -1035,19 +1035,19 @@
     "url": "https://meuicat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
-    "status": "up",
-    "uptime": "89.95%",
-    "uptimeDay": "79.08%",
-    "uptimeWeek": "85.51%",
-    "uptimeMonth": "89.95%",
-    "uptimeYear": "89.95%",
+    "status": "down",
+    "uptime": "90.02%",
+    "uptimeDay": "79.02%",
+    "uptimeWeek": "85.50%",
+    "uptimeMonth": "90.02%",
+    "uptimeYear": "90.02%",
     "time": 3161,
     "timeDay": 3413,
     "timeWeek": 3341,
     "timeMonth": 3161,
     "timeYear": 3161,
     "dailyMinutesDown": {
-      "2023-05-24": 227,
+      "2023-05-24": 228,
       "2023-05-23": 179,
       "2023-05-22": 135,
       "2023-05-21": 213,
@@ -1060,7 +1060,7 @@
       "2023-05-14": 250,
       "2023-05-13": 378,
       "2023-05-12": 293,
-      "2023-05-11": 50
+      "2023-05-11": 31
     }
   }
 ]
