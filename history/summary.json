@@ -348,8 +348,8 @@
     "status": "down",
     "uptime": "98.21%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "9.20%",
-    "uptimeMonth": "79.11%",
+    "uptimeWeek": "9.10%",
+    "uptimeMonth": "79.08%",
     "uptimeYear": "98.21%",
     "time": 365,
     "timeDay": 0,
@@ -357,7 +357,7 @@
     "timeMonth": 388,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2023-05-26": 209,
+      "2023-05-26": 220,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -876,9 +876,9 @@
     "slug": "23",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "96.32%",
-    "uptimeMonth": "96.63%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "96.65%",
     "uptimeYear": "99.33%",
     "time": 2117,
     "timeDay": 2110,
@@ -886,7 +886,6 @@
     "timeMonth": 2238,
     "timeYear": 2117,
     "dailyMinutesDown": {
-      "2023-05-26": 9,
       "2023-05-25": 58,
       "2023-05-24": 78,
       "2023-05-23": 71,
@@ -921,7 +920,7 @@
       "2022-10-28": 16,
       "2022-10-27": 21,
       "2022-10-26": 225,
-      "2022-10-25": 20
+      "2022-10-25": 43
     }
   },
   {
@@ -1037,18 +1036,19 @@
     "url": "https://meuicat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
-    "status": "up",
-    "uptime": "90.78%",
-    "uptimeDay": "90.95%",
-    "uptimeWeek": "85.69%",
-    "uptimeMonth": "90.78%",
-    "uptimeYear": "90.78%",
+    "status": "down",
+    "uptime": "90.86%",
+    "uptimeDay": "90.88%",
+    "uptimeWeek": "85.67%",
+    "uptimeMonth": "90.86%",
+    "uptimeYear": "90.86%",
     "time": 3143,
     "timeDay": 2798,
     "timeWeek": 3258,
     "timeMonth": 3143,
     "timeYear": 3143,
     "dailyMinutesDown": {
+      "2023-05-26": 1,
       "2023-05-25": 149,
       "2023-05-24": 274,
       "2023-05-23": 179,
@@ -1062,7 +1062,7 @@
       "2023-05-15": 316,
       "2023-05-14": 250,
       "2023-05-13": 378,
-      "2023-05-12": 118
+      "2023-05-12": 93
     }
   }
 ]
