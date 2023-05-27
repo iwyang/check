@@ -350,7 +350,7 @@
     "uptime": "97.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.35%",
+    "uptimeMonth": "74.32%",
     "uptimeYear": "97.81%",
     "time": 365,
     "timeDay": 0,
@@ -358,7 +358,7 @@
     "timeMonth": 392,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2023-05-27": 853,
+      "2023-05-27": 865,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
@@ -876,11 +876,11 @@
     "url": "https://blog.panghai.top/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.panghai.top.ico",
     "slug": "23",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "95.86%",
-    "uptimeMonth": "96.37%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "95.85%",
+    "uptimeMonth": "96.36%",
     "uptimeYear": "99.37%",
     "time": 2118,
     "timeDay": 2296,
@@ -888,7 +888,7 @@
     "timeMonth": 2239,
     "timeYear": 2118,
     "dailyMinutesDown": {
-      "2023-05-27": 38,
+      "2023-05-27": 39,
       "2023-05-26": 87,
       "2023-05-25": 58,
       "2023-05-24": 78,
@@ -922,8 +922,7 @@
       "2022-11-01": 56,
       "2022-10-31": 38,
       "2022-10-28": 16,
-      "2022-10-27": 21,
-      "2022-10-26": 17
+      "2022-10-27": 21
     }
   },
   {
