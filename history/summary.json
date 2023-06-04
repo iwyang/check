@@ -351,7 +351,7 @@
     "uptime": "95.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.11%",
+    "uptimeMonth": "49.09%",
     "uptimeYear": "95.75%",
     "time": 365,
     "timeDay": 0,
@@ -359,7 +359,7 @@
     "timeMonth": 406,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2023-06-04": 388,
+      "2023-06-04": 399,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -883,10 +883,10 @@
     "url": "https://blog.panghai.top/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.panghai.top.ico",
     "slug": "23",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "91.86%",
-    "uptimeWeek": "97.02%",
+    "uptimeDay": "91.78%",
+    "uptimeWeek": "97.01%",
     "uptimeMonth": "95.59%",
     "uptimeYear": "99.37%",
     "time": 2144,
@@ -895,7 +895,7 @@
     "timeMonth": 2334,
     "timeYear": 2144,
     "dailyMinutesDown": {
-      "2023-06-04": 93,
+      "2023-06-04": 94,
       "2023-06-03": 23,
       "2023-06-02": 23,
       "2023-06-01": 75,
@@ -930,8 +930,7 @@
       "2022-11-07": 49,
       "2022-11-06": 55,
       "2022-11-05": 127,
-      "2022-11-04": 22,
-      "2022-11-03": 17
+      "2022-11-04": 22
     }
   },
   {
@@ -1003,7 +1002,7 @@
     "slug": "26",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "74.76%",
+    "uptimeDay": "75.50%",
     "uptimeWeek": "87.14%",
     "uptimeMonth": "96.96%",
     "uptimeYear": "99.21%",
