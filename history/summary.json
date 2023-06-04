@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 659,
     "timeMonth": 652,
-    "timeYear": 546,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2022-08-07": 16,
       "2022-06-11": 49,
@@ -351,15 +351,15 @@
     "uptime": "95.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "47.39%",
-    "uptimeYear": "95.61%",
+    "uptimeMonth": "47.33%",
+    "uptimeYear": "95.60%",
     "time": 365,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 406,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2023-06-04": 1144,
+      "2023-06-04": 1167,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -516,7 +516,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "82.48%",
+    "uptimeYear": "82.49%",
     "time": 1297,
     "timeDay": 0,
     "timeWeek": 1449,
@@ -883,11 +883,11 @@
     "url": "https://blog.panghai.top/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.panghai.top.ico",
     "slug": "23",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "82.36%",
-    "uptimeWeek": "95.61%",
-    "uptimeMonth": "95.23%",
+    "uptimeDay": "82.25%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "95.22%",
     "uptimeYear": "99.37%",
     "time": 2143,
     "timeDay": 2316,
@@ -895,7 +895,7 @@
     "timeMonth": 2323,
     "timeYear": 2143,
     "dailyMinutesDown": {
-      "2023-06-04": 253,
+      "2023-06-04": 255,
       "2023-06-03": 23,
       "2023-06-02": 23,
       "2023-06-01": 75,
@@ -928,7 +928,7 @@
       "2022-11-10": 56,
       "2022-11-08": 95,
       "2022-11-07": 49,
-      "2022-11-06": 55
+      "2022-11-06": 38
     }
   },
   {
@@ -1046,19 +1046,19 @@
     "url": "https://meuicat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
-    "status": "up",
-    "uptime": "94.15%",
-    "uptimeDay": "90.43%",
-    "uptimeWeek": "95.78%",
-    "uptimeMonth": "93.80%",
-    "uptimeYear": "94.15%",
+    "status": "down",
+    "uptime": "94.27%",
+    "uptimeDay": "90.35%",
+    "uptimeWeek": "95.77%",
+    "uptimeMonth": "93.92%",
+    "uptimeYear": "94.27%",
     "time": 3096,
     "timeDay": 2930,
     "timeWeek": 2882,
     "timeMonth": 3099,
     "timeYear": 3096,
     "dailyMinutesDown": {
-      "2023-06-04": 139,
+      "2023-06-04": 140,
       "2023-06-03": 91,
       "2023-06-02": 197,
       "2023-05-27": 145,
@@ -1073,7 +1073,7 @@
       "2023-05-18": 145,
       "2023-05-17": 133,
       "2023-05-16": 165,
-      "2023-05-15": 178
+      "2023-05-15": 122
     }
   }
 ]
