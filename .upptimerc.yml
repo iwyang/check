@@ -52,7 +52,9 @@ sites:
   - name: 27lyshark
     url: https://www.lyshark.com/    
   - name: 28mao
-    url: https://meuicat.com/       
+    url: https://meuicat.com/ 
+  - name: 29JACK小桔子的小屋
+    url: https://www.jackxjz.com/    
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
