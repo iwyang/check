@@ -74,18 +74,19 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "up",
+    "status": "down",
     "uptime": "96.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.23%",
-    "uptimeYear": "96.13%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "96.14%",
     "time": 2605,
     "timeDay": 1862,
     "timeWeek": 2025,
     "timeMonth": 1823,
     "timeYear": 2631,
     "dailyMinutesDown": {
+      "2023-06-10": 2,
       "2023-05-22": 69,
       "2023-05-19": 24,
       "2023-05-16": 479,
@@ -161,8 +162,7 @@
       "2022-12-02": 30,
       "2022-12-01": 75,
       "2022-11-29": 106,
-      "2022-11-28": 86,
-      "2022-11-27": 33
+      "2022-11-28": 86
     }
   },
   {
@@ -171,10 +171,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iilee.cn.ico",
     "slug": "06-ii-lee-blog",
     "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.76%",
+    "uptime": "99.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.37%",
     "time": 1768,
     "timeDay": 1606,
@@ -182,7 +182,6 @@
     "timeMonth": 1707,
     "timeYear": 1770,
     "dailyMinutesDown": {
-      "2023-06-10": 10,
       "2023-06-02": 18,
       "2023-05-30": 21,
       "2023-05-27": 16,
@@ -258,7 +257,8 @@
       "2022-07-04": 26,
       "2022-07-03": 130,
       "2022-07-02": 63,
-      "2022-07-01": 21
+      "2022-07-01": 21,
+      "2022-06-29": 24
     }
   },
   {
@@ -347,10 +347,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/joyli.net.cn.ico",
     "slug": "08",
     "status": "down",
-    "uptime": "94.18%",
+    "uptime": "94.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.40%",
-    "uptimeMonth": "28.87%",
+    "uptimeMonth": "28.78%",
     "uptimeYear": "94.06%",
     "time": 369,
     "timeDay": 0,
@@ -358,7 +358,7 @@
     "timeMonth": 456,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2023-06-10": 959,
+      "2023-06-10": 996,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -645,8 +645,8 @@
     "status": "down",
     "uptime": "98.69%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.99%",
-    "uptimeMonth": "96.55%",
+    "uptimeWeek": "84.63%",
+    "uptimeMonth": "96.46%",
     "uptimeYear": "98.67%",
     "time": 507,
     "timeDay": 0,
@@ -654,7 +654,7 @@
     "timeMonth": 677,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2023-06-10": 960,
+      "2023-06-10": 996,
       "2023-06-09": 553,
       "2023-05-02": 627,
       "2023-05-01": 1440,
@@ -1046,18 +1046,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
     "status": "up",
-    "uptime": "95.31%",
-    "uptimeDay": "88.37%",
-    "uptimeWeek": "88.66%",
-    "uptimeMonth": "94.12%",
-    "uptimeYear": "95.31%",
+    "uptime": "95.27%",
+    "uptimeDay": "88.99%",
+    "uptimeWeek": "88.75%",
+    "uptimeMonth": "94.07%",
+    "uptimeYear": "95.27%",
     "time": 3094,
     "timeDay": 2838,
     "timeWeek": 3064,
     "timeMonth": 3091,
     "timeYear": 3094,
     "dailyMinutesDown": {
-      "2023-06-10": 168,
+      "2023-06-10": 159,
       "2023-06-09": 111,
       "2023-06-08": 143,
       "2023-06-07": 226,
@@ -1073,7 +1073,7 @@
       "2023-05-23": 179,
       "2023-05-22": 135,
       "2023-05-21": 213,
-      "2023-05-20": 22
+      "2023-05-20": 53
     }
   },
   {
