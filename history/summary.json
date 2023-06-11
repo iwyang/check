@@ -16,8 +16,7 @@
     "timeMonth": 660,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2022-08-07": 16,
-      "2022-06-11": 49
+      "2022-08-07": 16
     }
   },
   {
@@ -347,18 +346,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/joyli.net.cn.ico",
     "slug": "08",
     "status": "down",
-    "uptime": "94.10%",
+    "uptime": "94.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.40%",
-    "uptimeMonth": "27.79%",
-    "uptimeYear": "93.97%",
+    "uptimeMonth": "27.58%",
+    "uptimeYear": "93.96%",
     "time": 369,
     "timeDay": 0,
     "timeWeek": 1038,
     "timeMonth": 462,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2023-06-10": 1433,
+      "2023-06-11": 84,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -521,7 +521,7 @@
     "uptimeDay": "97.41%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "84.17%",
+    "uptimeYear": "84.18%",
     "time": 1304,
     "timeDay": 973,
     "timeWeek": 1485,
@@ -633,8 +633,7 @@
       "2022-06-15": 1390,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 1440,
-      "2022-06-11": 1440
+      "2022-06-12": 1440
     }
   },
   {
@@ -643,18 +642,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.nekolas.cafe.ico",
     "slug": "14-nekolas-s-blog",
     "status": "down",
-    "uptime": "98.61%",
+    "uptime": "98.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.30%",
-    "uptimeMonth": "95.47%",
-    "uptimeYear": "98.58%",
+    "uptimeWeek": "79.40%",
+    "uptimeMonth": "95.26%",
+    "uptimeYear": "98.56%",
     "time": 507,
     "timeDay": 0,
     "timeWeek": 688,
     "timeMonth": 665,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2023-06-10": 1433,
+      "2023-06-11": 84,
+      "2023-06-10": 1440,
       "2023-06-09": 553,
       "2023-05-02": 627,
       "2023-05-01": 1440,
@@ -1046,18 +1046,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
     "status": "up",
-    "uptime": "95.35%",
-    "uptimeDay": "88.35%",
-    "uptimeWeek": "88.66%",
-    "uptimeMonth": "94.12%",
-    "uptimeYear": "95.35%",
+    "uptime": "95.32%",
+    "uptimeDay": "88.99%",
+    "uptimeWeek": "88.75%",
+    "uptimeMonth": "94.07%",
+    "uptimeYear": "95.32%",
     "time": 3091,
     "timeDay": 2810,
     "timeWeek": 3054,
     "timeMonth": 3090,
     "timeYear": 3091,
     "dailyMinutesDown": {
-      "2023-06-10": 168,
+      "2023-06-10": 159,
       "2023-06-09": 111,
       "2023-06-08": 143,
       "2023-06-07": 226,
@@ -1073,7 +1073,7 @@
       "2023-05-23": 179,
       "2023-05-22": 135,
       "2023-05-21": 213,
-      "2023-05-20": 22
+      "2023-05-20": 53
     }
   },
   {
