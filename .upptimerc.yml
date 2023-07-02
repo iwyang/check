@@ -7,14 +7,10 @@ sites:
     url: https://bore.vip
   - name: 02ConstOwn
     url: https://blog.juanertu.com
-  - name: 03小丁的个人博客
-    url: https://tding.top
   - name: 05Takagi
     url: https://lixingyong.com
   - name: 06IILeeのBlog
     url: https://www.iilee.cn
-  - name: 07Bill Yang's Blog
-    url: https://blog.bill.moe
   - name: 10大大的小蜗牛
     url: https://eallion.com
   - name: 11guole's Blog
@@ -39,8 +35,6 @@ sites:
     url: https://kingpo.vercel.app/    
   - name: 23心流
     url: https://blog.panghai.top/
-  - name: 24Braindance
-    url: https://www.penginman.com   
   - name: 25轻笑Chuckle
     url: https://www.chuckle.top
   - name: 26七鳄学习格
