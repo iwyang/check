@@ -374,7 +374,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.70%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "90.23%",
+    "uptimeYear": "90.27%",
     "time": 1335,
     "timeDay": 1696,
     "timeWeek": 1680,
@@ -707,18 +707,19 @@
     "url": "https://blog.panghai.top/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.panghai.top.ico",
     "slug": "23",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "95.22%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "95.39%",
     "uptimeYear": "99.45%",
     "time": 2154,
     "timeDay": 2150,
-    "timeWeek": 2419,
-    "timeMonth": 2204,
+    "timeWeek": 2449,
+    "timeMonth": 2187,
     "timeYear": 2154,
     "dailyMinutesDown": {
+      "2023-07-04": 2,
       "2023-06-27": 41,
       "2023-06-26": 48,
       "2023-06-25": 38,
@@ -748,8 +749,7 @@
       "2023-05-29": 47,
       "2023-05-28": 18,
       "2023-05-27": 77,
-      "2023-05-26": 87,
-      "2023-05-25": 19
+      "2023-05-26": 87
     }
   },
   {
@@ -824,18 +824,19 @@
     "url": "https://meuicat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
-    "status": "up",
-    "uptime": "97.19%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "99.47%",
+    "status": "down",
+    "uptime": "97.23%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.46%",
     "uptimeMonth": "95.08%",
-    "uptimeYear": "97.19%",
+    "uptimeYear": "97.23%",
     "time": 3065,
     "timeDay": 3353,
     "timeWeek": 2270,
     "timeMonth": 3010,
     "timeYear": 3065,
     "dailyMinutesDown": {
+      "2023-07-04": 1,
       "2023-07-03": 33,
       "2023-06-28": 20,
       "2023-06-25": 21,
@@ -861,7 +862,7 @@
       "2023-06-04": 139,
       "2023-06-03": 91,
       "2023-06-02": 197,
-      "2023-05-27": 50
+      "2023-05-27": 22
     }
   },
   {
