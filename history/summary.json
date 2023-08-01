@@ -56,17 +56,16 @@
     "slug": "05-takagi",
     "status": "up",
     "uptime": "96.71%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "96.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "96.18%",
     "time": 2555,
     "timeDay": 1645,
     "timeWeek": 1824,
     "timeMonth": 1767,
     "timeYear": 2653,
     "dailyMinutesDown": {
-      "2023-07-31": 9,
       "2023-07-25": 37,
       "2023-07-24": 30,
       "2023-07-22": 18,
@@ -144,7 +143,8 @@
       "2022-12-16": 21,
       "2022-12-15": 16,
       "2022-12-14": 50,
-      "2022-12-10": 26
+      "2022-12-10": 26,
+      "2022-12-09": 49
     }
   },
   {
@@ -596,7 +596,7 @@
     "status": "down",
     "uptime": "98.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "50.40%",
+    "uptimeWeek": "51.23%",
     "uptimeMonth": "83.15%",
     "uptimeYear": "98.45%",
     "time": 1362,
