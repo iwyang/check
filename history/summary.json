@@ -760,18 +760,19 @@
     "url": "https://meuicat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
-    "status": "up",
-    "uptime": "98.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.74%",
+    "status": "down",
+    "uptime": "98.24%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "98.23%",
+    "uptimeYear": "98.24%",
     "time": 2955,
     "timeDay": 2190,
     "timeWeek": 2260,
     "timeMonth": 2102,
     "timeYear": 2955,
     "dailyMinutesDown": {
+      "2023-08-10": 1,
       "2023-08-08": 17,
       "2023-08-06": 25,
       "2023-08-04": 51,
@@ -809,7 +810,7 @@
       "2023-06-08": 143,
       "2023-06-07": 226,
       "2023-06-06": 213,
-      "2023-06-05": 60
+      "2023-06-05": 38
     }
   },
   {
@@ -817,19 +818,19 @@
     "url": "https://www.jackxjz.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jackxjz.com.ico",
     "slug": "29-jack",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2163,
-    "timeDay": 1717,
-    "timeWeek": 2042,
-    "timeMonth": 2126,
-    "timeYear": 2163,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 2164,
+    "timeDay": 1994,
+    "timeWeek": 2070,
+    "timeMonth": 2130,
+    "timeYear": 2164,
     "dailyMinutesDown": {
-      "2023-08-10": 1
+      "2023-08-10": 20
     }
   },
   {
