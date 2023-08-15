@@ -54,18 +54,19 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "up",
+    "status": "down",
     "uptime": "96.82%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.37%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "96.18%",
+    "uptimeYear": "96.19%",
     "time": 2563,
     "timeDay": 1763,
     "timeWeek": 1944,
     "timeMonth": 1879,
     "timeYear": 2630,
     "dailyMinutesDown": {
+      "2023-08-15": 0,
       "2023-08-14": 47,
       "2023-08-12": 16,
       "2023-08-07": 23,
@@ -143,8 +144,7 @@
       "2022-12-23": 27,
       "2022-12-22": 66,
       "2022-12-21": 38,
-      "2022-12-19": 40,
-      "2022-12-16": 21
+      "2022-12-19": 40
     }
   },
   {
@@ -760,17 +760,16 @@
     "slug": "28mao",
     "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "98.32%",
     "time": 2940,
     "timeDay": 2261,
     "timeWeek": 2238,
-    "timeMonth": 2148,
+    "timeMonth": 2152,
     "timeYear": 2940,
     "dailyMinutesDown": {
-      "2023-08-15": 9,
       "2023-08-14": 17,
       "2023-08-13": 16,
       "2023-08-08": 17,
@@ -809,7 +808,8 @@
       "2023-06-09": 111,
       "2023-06-08": 143,
       "2023-06-07": 226,
-      "2023-06-06": 213
+      "2023-06-06": 213,
+      "2023-06-05": 19
     }
   },
   {
