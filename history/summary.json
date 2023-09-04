@@ -696,18 +696,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chuckle.top.ico",
     "slug": "25-chuckle",
     "status": "down",
-    "uptime": "95.57%",
+    "uptime": "95.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.23%",
-    "uptimeYear": "95.57%",
+    "uptimeMonth": "53.18%",
+    "uptimeYear": "95.56%",
     "time": 517,
     "timeDay": 570,
     "timeWeek": 577,
     "timeMonth": 757,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2023-09-04": 57,
+      "2023-09-04": 79,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
@@ -730,10 +730,10 @@
     "url": "https://www.lyshark.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lyshark.com.ico",
     "slug": "27lyshark",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1600,
@@ -741,7 +741,9 @@
     "timeWeek": 1682,
     "timeMonth": 1797,
     "timeYear": 1600,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-04": 1
+    }
   },
   {
     "name": "28mao",
