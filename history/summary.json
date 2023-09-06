@@ -34,7 +34,7 @@
     "timeDay": 980,
     "timeWeek": 1599,
     "timeMonth": 1663,
-    "timeYear": 1563,
+    "timeYear": 1564,
     "dailyMinutesDown": {
       "2023-08-28": 78,
       "2023-08-07": 202,
@@ -55,19 +55,19 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "down",
+    "status": "up",
     "uptime": "96.98%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "96.19%",
     "time": 2563,
-    "timeDay": 6017,
-    "timeWeek": 2912,
-    "timeMonth": 2480,
+    "timeDay": 5235,
+    "timeWeek": 2862,
+    "timeMonth": 2475,
     "timeYear": 2667,
     "dailyMinutesDown": {
-      "2023-09-06": 48,
+      "2023-09-06": 58,
       "2023-09-01": 17,
       "2023-08-31": 15,
       "2023-08-29": 15,
@@ -245,7 +245,7 @@
     "timeDay": 1561,
     "timeWeek": 1545,
     "timeMonth": 1728,
-    "timeYear": 581,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2023-08-04": 76,
       "2023-07-27": 147,
@@ -302,7 +302,7 @@
     "timeDay": 969,
     "timeWeek": 1538,
     "timeMonth": 1447,
-    "timeYear": 592,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2023-08-27": 270,
       "2023-08-26": 1440,
@@ -330,7 +330,7 @@
     "timeDay": 717,
     "timeWeek": 638,
     "timeMonth": 601,
-    "timeYear": 477,
+    "timeYear": 478,
     "dailyMinutesDown": {
       "2023-02-11": 35
     }
@@ -350,7 +350,7 @@
     "timeDay": 1392,
     "timeWeek": 1756,
     "timeMonth": 1656,
-    "timeYear": 1370,
+    "timeYear": 1372,
     "dailyMinutesDown": {
       "2023-09-05": 20,
       "2023-08-03": 20,
@@ -459,7 +459,7 @@
     "timeDay": 1856,
     "timeWeek": 1707,
     "timeMonth": 2545,
-    "timeYear": 2188,
+    "timeYear": 2189,
     "dailyMinutesDown": {
       "2023-09-06": 45,
       "2023-08-30": 86,
@@ -567,7 +567,7 @@
     "timeDay": 1432,
     "timeWeek": 1470,
     "timeMonth": 2172,
-    "timeYear": 1457,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2023-09-06": 18,
       "2023-08-30": 65,
@@ -631,7 +631,7 @@
     "timeDay": 29,
     "timeWeek": 82,
     "timeMonth": 101,
-    "timeYear": 166,
+    "timeYear": 167,
     "dailyMinutesDown": {
       "2022-09-13": 359
     }
@@ -651,7 +651,7 @@
     "timeDay": 362,
     "timeWeek": 543,
     "timeMonth": 579,
-    "timeYear": 2003,
+    "timeYear": 2001,
     "dailyMinutesDown": {
       "2023-07-25": 24,
       "2023-07-11": 84,
@@ -697,7 +697,7 @@
     "uptime": "94.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.61%",
+    "uptimeMonth": "43.58%",
     "uptimeYear": "94.70%",
     "time": 518,
     "timeDay": 549,
@@ -705,7 +705,7 @@
     "timeMonth": 762,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2023-09-06": 1391,
+      "2023-09-06": 1402,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
