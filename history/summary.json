@@ -55,10 +55,10 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "up",
-    "uptime": "96.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.53%",
+    "status": "down",
+    "uptime": "97.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "96.19%",
     "time": 2627,
@@ -67,6 +67,7 @@
     "timeMonth": 2471,
     "timeYear": 2669,
     "dailyMinutesDown": {
+      "2023-09-09": 0,
       "2023-09-06": 47,
       "2023-09-01": 17,
       "2023-08-31": 15,
@@ -146,7 +147,7 @@
       "2023-01-10": 19,
       "2023-01-06": 25,
       "2022-12-26": 48,
-      "2022-12-25": 33
+      "2022-12-25": 17
     }
   },
   {
@@ -295,7 +296,7 @@
     "uptimeYear": "99.24%",
     "time": 541,
     "timeDay": 1323,
-    "timeWeek": 1534,
+    "timeWeek": 1250,
     "timeMonth": 1466,
     "timeYear": 597,
     "dailyMinutesDown": {
@@ -689,18 +690,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chuckle.top.ico",
     "slug": "25-chuckle",
     "status": "down",
-    "uptime": "94.09%",
+    "uptime": "94.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.64%",
-    "uptimeYear": "94.09%",
+    "uptimeMonth": "36.40%",
+    "uptimeYear": "94.06%",
     "time": 519,
     "timeDay": 694,
     "timeWeek": 604,
     "timeMonth": 777,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2023-09-09": 123,
+      "2023-09-09": 229,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
