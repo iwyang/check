@@ -57,9 +57,9 @@
     "slug": "05-takagi",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "97.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "97.38%",
     "uptimeYear": "99.41%",
     "time": 2667,
     "timeDay": 5027,
@@ -67,7 +67,6 @@
     "timeMonth": 3106,
     "timeYear": 2757,
     "dailyMinutesDown": {
-      "2023-10-10": 10,
       "2023-10-08": 19,
       "2023-09-26": 30,
       "2023-09-25": 101,
@@ -120,7 +119,7 @@
       "2023-04-08": 17,
       "2023-04-06": 190,
       "2023-04-02": 22,
-      "2023-03-30": 28
+      "2023-03-30": 57
     }
   },
   {
@@ -656,18 +655,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chuckle.top.ico",
     "slug": "25-chuckle",
     "status": "down",
-    "uptime": "85.87%",
+    "uptime": "85.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.87%",
+    "uptimeYear": "85.86%",
     "time": 516,
     "timeDay": 0,
     "timeWeek": 543,
     "timeMonth": 478,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2023-10-10": 406,
+      "2023-10-10": 443,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -749,18 +748,19 @@
     "url": "https://meuicat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "99.56%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "98.90%",
+    "uptimeYear": "98.91%",
     "time": 2819,
     "timeDay": 2192,
     "timeWeek": 2017,
     "timeMonth": 1795,
     "timeYear": 2819,
     "dailyMinutesDown": {
+      "2023-10-10": 1,
       "2023-10-09": 24,
       "2023-10-05": 20,
       "2023-09-16": 16,
@@ -807,7 +807,7 @@
       "2023-06-10": 159,
       "2023-06-09": 111,
       "2023-06-08": 143,
-      "2023-06-07": 131
+      "2023-06-07": 103
     }
   },
   {
