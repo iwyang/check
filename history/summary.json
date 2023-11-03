@@ -214,7 +214,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.10%",
     "time": 739,
     "timeDay": 1544,
     "timeWeek": 1533,
@@ -228,8 +228,7 @@
       "2023-03-06": 27,
       "2022-11-06": 83,
       "2022-11-05": 1440,
-      "2022-11-04": 1440,
-      "2022-11-03": 1440
+      "2022-11-04": 1440
     }
   },
   {
@@ -240,7 +239,7 @@
     "status": "up",
     "uptime": "99.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.12%",
+    "uptimeWeek": "92.83%",
     "uptimeMonth": "96.74%",
     "uptimeYear": "98.98%",
     "time": 610,
@@ -291,12 +290,12 @@
     "status": "up",
     "uptime": "97.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "97.01%",
     "time": 1375,
     "timeDay": 976,
-    "timeWeek": 1333,
+    "timeWeek": 1343,
     "timeMonth": 1462,
     "timeYear": 1478,
     "dailyMinutesDown": {
@@ -535,8 +534,7 @@
       "2022-11-11": 54,
       "2022-11-08": 18,
       "2022-11-07": 92,
-      "2022-11-06": 44,
-      "2022-11-03": 45
+      "2022-11-06": 44
     }
   },
   {
@@ -633,18 +631,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chuckle.top.ico",
     "slug": "25-chuckle",
     "status": "down",
-    "uptime": "80.52%",
+    "uptime": "80.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.68%",
+    "uptimeYear": "79.66%",
     "time": 516,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 543,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2023-11-02": 1425,
+      "2023-11-03": 58,
+      "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
