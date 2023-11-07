@@ -125,10 +125,10 @@
     "url": "https://www.iilee.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.iilee.cn.ico",
     "slug": "06-ii-lee-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.32%",
     "time": 1921,
@@ -137,6 +137,7 @@
     "timeMonth": 1783,
     "timeYear": 1932,
     "dailyMinutesDown": {
+      "2023-11-07": 1,
       "2023-11-04": 16,
       "2023-11-03": 19,
       "2023-10-30": 44,
@@ -640,7 +641,7 @@
     "timeMonth": 420,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2023-11-07": 833,
+      "2023-11-07": 848,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
@@ -752,9 +753,9 @@
     "slug": "28mao",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.06%",
     "time": 2765,
     "timeDay": 2187,
@@ -762,7 +763,6 @@
     "timeMonth": 2000,
     "timeYear": 2765,
     "dailyMinutesDown": {
-      "2023-11-07": 9,
       "2023-11-06": 19,
       "2023-11-05": 58,
       "2023-11-04": 57,
@@ -815,7 +815,7 @@
       "2023-06-11": 53,
       "2023-06-10": 159,
       "2023-06-09": 111,
-      "2023-06-08": 52
+      "2023-06-08": 72
     }
   },
   {
