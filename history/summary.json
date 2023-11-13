@@ -624,18 +624,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chuckle.top.ico",
     "slug": "25-chuckle",
     "status": "down",
-    "uptime": "78.43%",
+    "uptime": "78.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.90%",
+    "uptimeYear": "76.87%",
     "time": 516,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2023-11-13": 192,
+      "2023-11-13": 331,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -751,10 +751,10 @@
     "url": "https://meuicat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "98.63%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "98.62%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.08%",
     "time": 2754,
@@ -763,7 +763,7 @@
     "timeMonth": 2017,
     "timeYear": 2754,
     "dailyMinutesDown": {
-      "2023-11-13": 17,
+      "2023-11-13": 18,
       "2023-11-12": 21,
       "2023-11-10": 24,
       "2023-11-09": 57,
@@ -818,7 +818,7 @@
       "2023-06-12": 142,
       "2023-06-11": 53,
       "2023-06-10": 159,
-      "2023-06-09": 92
+      "2023-06-09": 73
     }
   },
   {
