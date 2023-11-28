@@ -128,7 +128,7 @@
     "status": "up",
     "uptime": "98.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.62%",
+    "uptimeWeek": "74.71%",
     "uptimeMonth": "83.15%",
     "uptimeYear": "97.98%",
     "time": 1926,
@@ -300,7 +300,7 @@
     "time": 1392,
     "timeDay": 770,
     "timeWeek": 1353,
-    "timeMonth": 1361,
+    "timeMonth": 1357,
     "timeYear": 1490,
     "dailyMinutesDown": {
       "2023-11-21": 25,
@@ -533,19 +533,19 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 418,
-    "timeDay": 289,
-    "timeWeek": 306,
+    "timeDay": 344,
+    "timeWeek": 318,
     "timeMonth": 383,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2023-11-28": 2
+      "2023-11-28": 9
     }
   },
   {
@@ -553,19 +553,19 @@
     "url": "https://kingpo.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/kingpo.vercel.app.ico",
     "slug": "22",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 90,
-    "timeWeek": 101,
-    "timeMonth": 115,
+    "timeDay": 62,
+    "timeWeek": 93,
+    "timeMonth": 113,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2023-11-28": 1
+      "2023-11-28": 9
     }
   },
   {
@@ -637,7 +637,7 @@
     "timeMonth": 0,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2023-11-28": 446,
+      "2023-11-28": 454,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
