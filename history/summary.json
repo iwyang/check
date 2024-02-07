@@ -54,13 +54,13 @@
     "slug": "05-takagi",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "62.59%",
+    "uptimeDay": "63.88%",
     "uptimeWeek": "60.55%",
     "uptimeMonth": "90.92%",
     "uptimeYear": "99.24%",
     "time": 2319,
-    "timeDay": 1799,
-    "timeWeek": 1895,
+    "timeDay": 1813,
+    "timeWeek": 1896,
     "timeMonth": 1900,
     "timeYear": 2200,
     "dailyMinutesDown": {
@@ -167,7 +167,7 @@
     "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "96.17%",
+    "uptimeMonth": "96.26%",
     "uptimeYear": "99.23%",
     "time": 954,
     "timeDay": 4308,
@@ -602,7 +602,7 @@
     "timeMonth": 0,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2024-02-07": 55,
+      "2024-02-07": 93,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
@@ -805,10 +805,10 @@
     "url": "https://meuicat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "91.29%",
     "uptimeYear": "98.46%",
     "time": 2664,
@@ -817,6 +817,7 @@
     "timeMonth": 1907,
     "timeYear": 2664,
     "dailyMinutesDown": {
+      "2024-02-07": 1,
       "2024-02-06": 17,
       "2024-01-31": 24,
       "2024-01-27": 619,
@@ -885,7 +886,7 @@
       "2023-06-16": 36,
       "2023-06-15": 120,
       "2023-06-14": 84,
-      "2023-06-13": 34
+      "2023-06-13": 18
     }
   },
   {
