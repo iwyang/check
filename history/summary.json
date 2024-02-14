@@ -14,7 +14,7 @@
     "timeDay": 279,
     "timeWeek": 434,
     "timeMonth": 626,
-    "timeYear": 549,
+    "timeYear": 550,
     "dailyMinutesDown": {
       "2024-01-17": 27,
       "2023-07-26": 19
@@ -35,7 +35,7 @@
     "timeDay": 1545,
     "timeWeek": 1505,
     "timeMonth": 1549,
-    "timeYear": 1625,
+    "timeYear": 1624,
     "dailyMinutesDown": {
       "2023-08-28": 78,
       "2023-08-07": 202,
@@ -52,19 +52,19 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "53.90%",
-    "uptimeWeek": "61.16%",
-    "uptimeMonth": "91.06%",
-    "uptimeYear": "99.26%",
-    "time": 2307,
-    "timeDay": 1791,
-    "timeWeek": 1841,
+    "uptimeDay": "53.35%",
+    "uptimeWeek": "61.08%",
+    "uptimeMonth": "91.04%",
+    "uptimeYear": "99.25%",
+    "time": 2308,
+    "timeDay": 1797,
+    "timeWeek": 1842,
     "timeMonth": 1872,
     "timeYear": 2136,
     "dailyMinutesDown": {
-      "2024-02-14": 640,
+      "2024-02-14": 647,
       "2024-02-13": 791,
       "2024-02-12": 715,
       "2024-02-11": 713,
@@ -87,7 +87,7 @@
     "timeDay": 1446,
     "timeWeek": 1543,
     "timeMonth": 1738,
-    "timeYear": 2097,
+    "timeYear": 2098,
     "dailyMinutesDown": {
       "2024-01-09": 197,
       "2023-12-29": 113,
@@ -171,7 +171,7 @@
     "timeDay": 3026,
     "timeWeek": 3333,
     "timeMonth": 3589,
-    "timeYear": 1208,
+    "timeYear": 1210,
     "dailyMinutesDown": {
       "2024-02-05": 19,
       "2024-02-02": 15,
@@ -212,7 +212,7 @@
     "timeDay": 1886,
     "timeWeek": 1133,
     "timeMonth": 902,
-    "timeYear": 862,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2023-10-27": 779,
       "2023-10-26": 633,
@@ -243,7 +243,7 @@
     "timeDay": 260,
     "timeWeek": 271,
     "timeMonth": 406,
-    "timeYear": 457,
+    "timeYear": 458,
     "dailyMinutesDown": {}
   },
   {
@@ -599,7 +599,7 @@
     "timeMonth": 0,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2024-02-14": 1392,
+      "2024-02-14": 1400,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
