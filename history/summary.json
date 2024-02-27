@@ -54,14 +54,14 @@
     "slug": "05-takagi",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "20.87%",
-    "uptimeWeek": "33.31%",
+    "uptimeDay": "25.23%",
+    "uptimeWeek": "33.94%",
     "uptimeMonth": "79.78%",
     "uptimeYear": "98.31%",
     "time": 2205,
     "timeDay": 1898,
     "timeWeek": 1929,
-    "timeMonth": 1838,
+    "timeMonth": 1839,
     "timeYear": 2037,
     "dailyMinutesDown": {
       "2024-02-26": 1131,
@@ -263,7 +263,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 1441,
     "timeDay": 288,
     "timeWeek": 379,
@@ -315,8 +315,7 @@
       "2023-06-07": 19,
       "2023-05-05": 18,
       "2023-04-12": 15,
-      "2023-03-03": 21,
-      "2023-02-27": 111
+      "2023-03-03": 21
     }
   },
   {
@@ -404,8 +403,7 @@
       "2023-03-08": 23,
       "2023-03-07": 36,
       "2023-03-03": 40,
-      "2023-03-02": 57,
-      "2023-02-27": 32
+      "2023-03-02": 57
     }
   },
   {
@@ -493,8 +491,7 @@
       "2023-03-30": 56,
       "2023-03-08": 43,
       "2023-03-03": 40,
-      "2023-03-02": 37,
-      "2023-02-27": 15
+      "2023-03-02": 37
     }
   },
   {
@@ -592,18 +589,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chuckle.top.ico",
     "slug": "25-chuckle",
     "status": "down",
-    "uptime": "61.72%",
+    "uptime": "61.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.89%",
+    "uptimeYear": "47.88%",
     "time": 485,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2024-02-26": 1433,
+      "2024-02-27": 56,
+      "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
@@ -826,18 +824,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
     "status": "down",
-    "uptime": "98.09%",
+    "uptime": "98.08%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.01%",
+    "uptimeWeek": "78.38%",
     "uptimeMonth": "93.43%",
-    "uptimeYear": "98.09%",
+    "uptimeYear": "98.08%",
     "time": 2645,
     "timeDay": 0,
     "timeWeek": 2399,
     "timeMonth": 2046,
     "timeYear": 2645,
     "dailyMinutesDown": {
-      "2024-02-26": 1433,
+      "2024-02-27": 56,
+      "2024-02-26": 1440,
       "2024-02-25": 628,
       "2024-02-23": 39,
       "2024-02-21": 16,
@@ -920,12 +919,12 @@
     "slug": "29-jack",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "91.61%",
+    "uptimeDay": "95.36%",
     "uptimeWeek": "77.43%",
     "uptimeMonth": "89.35%",
     "uptimeYear": "98.75%",
     "time": 2521,
-    "timeDay": 2499,
+    "timeDay": 2493,
     "timeWeek": 3275,
     "timeMonth": 3394,
     "timeYear": 2521,
