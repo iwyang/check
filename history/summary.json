@@ -52,19 +52,19 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "59.26%",
-    "uptimeWeek": "34.66%",
-    "uptimeMonth": "79.70%",
+    "uptimeDay": "59.89%",
+    "uptimeWeek": "34.65%",
+    "uptimeMonth": "79.75%",
     "uptimeYear": "98.31%",
-    "time": 2206,
+    "time": 2207,
     "timeDay": 1983,
     "timeWeek": 1885,
     "timeMonth": 1851,
     "timeYear": 2026,
     "dailyMinutesDown": {
-      "2024-02-28": 448,
+      "2024-02-28": 449,
       "2024-02-27": 556,
       "2024-02-26": 1131,
       "2024-02-25": 1440,
@@ -74,7 +74,7 @@
       "2024-02-21": 360,
       "2024-02-20": 772,
       "2024-02-19": 701,
-      "2024-02-18": 473
+      "2024-02-18": 451
     }
   },
   {
@@ -603,7 +603,7 @@
     "timeMonth": 0,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2024-02-28": 1113,
+      "2024-02-28": 1122,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
@@ -924,7 +924,7 @@
     "status": "up",
     "uptime": "98.72%",
     "uptimeDay": "97.57%",
-    "uptimeWeek": "77.15%",
+    "uptimeWeek": "77.24%",
     "uptimeMonth": "89.01%",
     "uptimeYear": "98.72%",
     "time": 2528,
