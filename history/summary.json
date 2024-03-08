@@ -54,13 +54,13 @@
     "slug": "05-takagi",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "49.21%",
+    "uptimeDay": "54.00%",
     "uptimeWeek": "61.50%",
     "uptimeMonth": "91.14%",
     "uptimeYear": "99.26%",
     "time": 2169,
     "timeDay": 1770,
-    "timeWeek": 1776,
+    "timeWeek": 1775,
     "timeMonth": 1829,
     "timeYear": 1999,
     "dailyMinutesDown": {
@@ -394,8 +394,7 @@
       "2023-03-28": 692,
       "2023-03-19": 17,
       "2023-03-14": 35,
-      "2023-03-12": 34,
-      "2023-03-09": 19
+      "2023-03-12": 34
     }
   },
   {
@@ -578,18 +577,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chuckle.top.ico",
     "slug": "25-chuckle",
     "status": "down",
-    "uptime": "60.50%",
+    "uptime": "60.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "45.16%",
+    "uptimeYear": "45.14%",
     "time": 472,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2024-03-07": 1428,
+      "2024-03-08": 56,
+      "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
