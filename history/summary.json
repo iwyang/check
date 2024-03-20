@@ -48,11 +48,11 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "49.27%",
-    "uptimeWeek": "57.55%",
-    "uptimeMonth": "82.82%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "49.19%",
+    "uptimeWeek": "57.74%",
+    "uptimeMonth": "82.86%",
     "uptimeYear": "98.57%",
     "time": 2041,
     "timeDay": 1867,
@@ -60,7 +60,7 @@
     "timeMonth": 1807,
     "timeYear": 1980,
     "dailyMinutesDown": {
-      "2024-03-20": 638,
+      "2024-03-20": 639,
       "2024-03-19": 788,
       "2024-03-18": 685,
       "2024-03-17": 99,
@@ -69,7 +69,7 @@
       "2024-03-14": 753,
       "2024-03-13": 1383,
       "2024-03-12": 1429,
-      "2024-03-11": 721
+      "2024-03-11": 701
     }
   },
   {
@@ -579,14 +579,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "41.65%",
+    "uptimeYear": "41.64%",
     "time": 476,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2024-03-20": 1156,
+      "2024-03-20": 1177,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -836,9 +836,9 @@
     "slug": "28mao",
     "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "92.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "92.60%",
     "uptimeYear": "98.01%",
     "time": 2625,
     "timeDay": 1962,
@@ -846,7 +846,6 @@
     "timeMonth": 2036,
     "timeYear": 2625,
     "dailyMinutesDown": {
-      "2024-03-20": 9,
       "2024-03-17": 31,
       "2024-03-12": 15,
       "2024-03-02": 79,
@@ -921,7 +920,7 @@
       "2023-06-21": 68,
       "2023-06-20": 16,
       "2023-06-19": 58,
-      "2023-06-18": 40
+      "2023-06-18": 57
     }
   },
   {
@@ -931,9 +930,9 @@
     "slug": "29-jack",
     "status": "down",
     "uptime": "97.89%",
-    "uptimeDay": "76.38%",
-    "uptimeWeek": "70.89%",
-    "uptimeMonth": "85.83%",
+    "uptimeDay": "75.74%",
+    "uptimeWeek": "70.68%",
+    "uptimeMonth": "85.79%",
     "uptimeYear": "97.89%",
     "time": 2716,
     "timeDay": 3454,
@@ -941,7 +940,7 @@
     "timeMonth": 3642,
     "timeYear": 2716,
     "dailyMinutesDown": {
-      "2024-03-20": 261,
+      "2024-03-20": 282,
       "2024-03-19": 467,
       "2024-03-18": 810,
       "2024-03-17": 442,
