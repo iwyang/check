@@ -49,13 +49,13 @@
     "slug": "05-takagi",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "71.28%",
+    "uptimeDay": "75.63%",
     "uptimeWeek": "62.15%",
     "uptimeMonth": "90.25%",
     "uptimeYear": "99.19%",
     "time": 2089,
     "timeDay": 1746,
-    "timeWeek": 1858,
+    "timeWeek": 1859,
     "timeMonth": 1811,
     "timeYear": 1980,
     "dailyMinutesDown": {
@@ -430,8 +430,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
-      "2023-03-24": 1440,
-      "2023-03-23": 958
+      "2023-03-24": 1440
     }
   },
   {
@@ -576,14 +575,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "41.32%",
+    "uptimeYear": "41.31%",
     "time": 475,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2024-03-21": 1428,
+      "2024-03-22": 57,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -834,9 +834,9 @@
     "slug": "28mao",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "92.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "92.64%",
     "uptimeYear": "98.02%",
     "time": 2623,
     "timeDay": 1716,
@@ -844,7 +844,6 @@
     "timeMonth": 2033,
     "timeYear": 2623,
     "dailyMinutesDown": {
-      "2024-03-21": 9,
       "2024-03-17": 31,
       "2024-03-12": 15,
       "2024-03-02": 79,
@@ -919,7 +918,7 @@
       "2023-06-21": 68,
       "2023-06-20": 16,
       "2023-06-19": 58,
-      "2023-06-18": 40
+      "2023-06-18": 57
     }
   },
   {
@@ -928,18 +927,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jackxjz.com.ico",
     "slug": "29-jack",
     "status": "down",
-    "uptime": "97.80%",
-    "uptimeDay": "83.51%",
-    "uptimeWeek": "69.37%",
+    "uptime": "97.79%",
+    "uptimeDay": "78.77%",
+    "uptimeWeek": "68.69%",
     "uptimeMonth": "85.76%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.79%",
     "time": 2736,
     "timeDay": 4035,
     "timeWeek": 4001,
     "timeMonth": 3675,
     "timeYear": 2736,
     "dailyMinutesDown": {
-      "2024-03-21": 237,
+      "2024-03-22": 57,
+      "2024-03-21": 248,
       "2024-03-20": 432,
       "2024-03-19": 467,
       "2024-03-18": 810,
