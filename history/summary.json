@@ -35,7 +35,7 @@
     "timeDay": 1132,
     "timeWeek": 1669,
     "timeMonth": 1598,
-    "timeYear": 1514,
+    "timeYear": 1515,
     "dailyMinutesDown": {
       "2024-03-20": 20,
       "2023-08-28": 78,
@@ -89,7 +89,7 @@
     "timeDay": 1489,
     "timeWeek": 1915,
     "timeMonth": 1766,
-    "timeYear": 2087,
+    "timeYear": 2088,
     "dailyMinutesDown": {
       "2024-03-25": 18,
       "2024-03-19": 25,
@@ -170,7 +170,7 @@
     "timeDay": 5188,
     "timeWeek": 4271,
     "timeMonth": 5953,
-    "timeYear": 1802,
+    "timeYear": 1806,
     "dailyMinutesDown": {
       "2024-03-28": 20,
       "2024-02-17": 37,
@@ -212,7 +212,7 @@
     "timeDay": 954,
     "timeWeek": 937,
     "timeMonth": 868,
-    "timeYear": 923,
+    "timeYear": 924,
     "dailyMinutesDown": {
       "2024-03-17": 17,
       "2024-03-13": 24,
@@ -265,7 +265,7 @@
     "timeDay": 1976,
     "timeWeek": 1708,
     "timeMonth": 993,
-    "timeYear": 1409,
+    "timeYear": 1405,
     "dailyMinutesDown": {
       "2024-03-02": 46,
       "2024-02-27": 21,
@@ -405,7 +405,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.64%",
+    "uptimeYear": "95.65%",
     "time": 351,
     "timeDay": 355,
     "timeWeek": 391,
@@ -568,18 +568,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chuckle.top.ico",
     "slug": "25-chuckle",
     "status": "down",
-    "uptime": "58.15%",
+    "uptime": "58.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "39.54%",
+    "uptimeYear": "39.53%",
     "time": 477,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2024-03-28": 708,
+      "2024-03-28": 748,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
@@ -835,9 +835,9 @@
     "url": "https://meuicat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
-    "status": "up",
+    "status": "down",
     "uptime": "98.06%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "98.71%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "98.06%",
@@ -847,7 +847,7 @@
     "timeMonth": 1982,
     "timeYear": 2612,
     "dailyMinutesDown": {
-      "2024-03-28": 18,
+      "2024-03-28": 19,
       "2024-03-17": 31,
       "2024-03-12": 15,
       "2024-03-02": 79,
@@ -922,7 +922,7 @@
       "2023-06-21": 68,
       "2023-06-20": 16,
       "2023-06-19": 58,
-      "2023-06-18": 40
+      "2023-06-18": 16
     }
   },
   {
