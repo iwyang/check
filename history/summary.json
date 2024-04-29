@@ -562,7 +562,7 @@
     "timeMonth": 0,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2024-04-29": 60,
+      "2024-04-29": 64,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -947,18 +947,19 @@
     "url": "https://www.jackxjz.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jackxjz.com.ico",
     "slug": "29-jack",
-    "status": "up",
-    "uptime": "96.75%",
-    "uptimeDay": "82.10%",
-    "uptimeWeek": "59.67%",
+    "status": "down",
+    "uptime": "96.77%",
+    "uptimeDay": "82.00%",
+    "uptimeWeek": "59.66%",
     "uptimeMonth": "77.75%",
-    "uptimeYear": "96.75%",
+    "uptimeYear": "96.77%",
     "time": 3092,
     "timeDay": 5383,
     "timeWeek": 4596,
     "timeMonth": 4290,
     "timeYear": 3092,
     "dailyMinutesDown": {
+      "2024-04-29": 1,
       "2024-04-28": 257,
       "2024-04-27": 184,
       "2024-04-26": 1440,
@@ -1001,8 +1002,7 @@
       "2024-03-16": 407,
       "2024-03-15": 292,
       "2024-03-14": 169,
-      "2024-03-13": 85,
-      "2024-03-09": 126
+      "2024-03-13": 85
     }
   },
   {
