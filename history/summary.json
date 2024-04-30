@@ -551,7 +551,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chuckle.top.ico",
     "slug": "25-chuckle",
     "status": "down",
-    "uptime": "54.72%",
+    "uptime": "54.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -562,7 +562,7 @@
     "timeMonth": 0,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2024-04-30": 809,
+      "2024-04-30": 829,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -948,10 +948,10 @@
     "url": "https://www.jackxjz.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jackxjz.com.ico",
     "slug": "29-jack",
-    "status": "up",
+    "status": "down",
     "uptime": "96.83%",
-    "uptimeDay": "45.73%",
-    "uptimeWeek": "50.69%",
+    "uptimeDay": "45.67%",
+    "uptimeWeek": "50.68%",
     "uptimeMonth": "75.50%",
     "uptimeYear": "96.83%",
     "time": 3213,
@@ -960,7 +960,7 @@
     "timeMonth": 4642,
     "timeYear": 3213,
     "dailyMinutesDown": {
-      "2024-04-30": 545,
+      "2024-04-30": 546,
       "2024-04-29": 598,
       "2024-04-28": 257,
       "2024-04-27": 184,
@@ -1000,7 +1000,7 @@
       "2024-03-20": 432,
       "2024-03-19": 467,
       "2024-03-18": 810,
-      "2024-03-17": 55
+      "2024-03-17": 37
     }
   },
   {
