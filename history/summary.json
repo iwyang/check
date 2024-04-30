@@ -562,7 +562,7 @@
     "timeMonth": 0,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2024-04-30": 173,
+      "2024-04-30": 190,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -852,18 +852,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
     "status": "up",
-    "uptime": "98.24%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "98.24%",
+    "uptime": "98.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "98.23%",
     "time": 2585,
     "timeDay": 2205,
     "timeWeek": 2322,
     "timeMonth": 2121,
     "timeYear": 2585,
     "dailyMinutesDown": {
-      "2024-04-30": 9,
       "2024-04-25": 34,
       "2024-04-23": 21,
       "2024-04-22": 32,
@@ -941,7 +940,7 @@
       "2023-07-03": 33,
       "2023-06-28": 20,
       "2023-06-25": 21,
-      "2023-06-24": 128
+      "2023-06-24": 152
     }
   },
   {
@@ -949,19 +948,19 @@
     "url": "https://www.jackxjz.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jackxjz.com.ico",
     "slug": "29-jack",
-    "status": "up",
-    "uptime": "96.77%",
-    "uptimeDay": "55.50%",
-    "uptimeWeek": "54.83%",
+    "status": "down",
+    "uptime": "96.80%",
+    "uptimeDay": "55.39%",
+    "uptimeWeek": "54.81%",
     "uptimeMonth": "76.24%",
-    "uptimeYear": "96.77%",
+    "uptimeYear": "96.80%",
     "time": 3115,
     "timeDay": 4496,
     "timeWeek": 4765,
     "timeMonth": 4312,
     "timeYear": 3115,
     "dailyMinutesDown": {
-      "2024-04-30": 129,
+      "2024-04-30": 130,
       "2024-04-29": 598,
       "2024-04-28": 257,
       "2024-04-27": 184,
@@ -1002,7 +1001,7 @@
       "2024-03-19": 467,
       "2024-03-18": 810,
       "2024-03-17": 442,
-      "2024-03-16": 299
+      "2024-03-16": 130
     }
   },
   {
