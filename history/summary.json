@@ -58,7 +58,7 @@
     "timeDay": 1772,
     "timeWeek": 1822,
     "timeMonth": 1762,
-    "timeYear": 1985,
+    "timeYear": 1984,
     "dailyMinutesDown": {
       "2024-05-16": 19,
       "2024-05-10": 16,
@@ -461,9 +461,9 @@
     "slug": "21-eurkon",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "85.98%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "85.28%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.96%",
     "time": 391,
     "timeDay": 343,
@@ -471,7 +471,7 @@
     "timeMonth": 386,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2024-05-16": 203
+      "2024-05-16": 213
     }
   },
   {
@@ -563,7 +563,7 @@
     "timeMonth": 0,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2024-05-16": 827,
+      "2024-05-16": 837,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -868,18 +868,19 @@
     "url": "https://meuicat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/meuicat.com.ico",
     "slug": "28mao",
-    "status": "up",
+    "status": "down",
     "uptime": "98.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "98.24%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "98.25%",
     "time": 2542,
     "timeDay": 2494,
     "timeWeek": 2824,
     "timeMonth": 2238,
     "timeYear": 2508,
     "dailyMinutesDown": {
+      "2024-05-16": 1,
       "2024-05-03": 46,
       "2024-04-25": 34,
       "2024-04-23": 21,
@@ -958,7 +959,7 @@
       "2023-07-03": 33,
       "2023-06-28": 20,
       "2023-06-25": 21,
-      "2023-06-24": 128
+      "2023-06-24": 91
     }
   },
   {
@@ -970,7 +971,7 @@
     "uptime": "92.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.26%",
+    "uptimeMonth": "36.24%",
     "uptimeYear": "92.71%",
     "time": 3175,
     "timeDay": 1012,
@@ -978,7 +979,7 @@
     "timeMonth": 4257,
     "timeYear": 3175,
     "dailyMinutesDown": {
-      "2024-05-16": 827,
+      "2024-05-16": 837,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
