@@ -50,9 +50,9 @@
     "slug": "05-takagi",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "98.96%",
     "time": 1979,
     "timeDay": 1940,
@@ -60,7 +60,6 @@
     "timeMonth": 1782,
     "timeYear": 1987,
     "dailyMinutesDown": {
-      "2024-05-27": 10,
       "2024-05-26": 25,
       "2024-05-18": 18,
       "2024-05-16": 71,
@@ -83,7 +82,7 @@
       "2024-03-18": 685,
       "2024-03-17": 99,
       "2024-03-16": 359,
-      "2024-03-15": 463
+      "2024-03-15": 502
     }
   },
   {
@@ -334,8 +333,8 @@
     "status": "down",
     "uptime": "99.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "44.74%",
-    "uptimeMonth": "87.28%",
+    "uptimeWeek": "44.64%",
+    "uptimeMonth": "87.26%",
     "uptimeYear": "98.94%",
     "time": 324,
     "timeDay": 146,
@@ -343,7 +342,7 @@
     "timeMonth": 158,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2024-05-27": 699,
+      "2024-05-27": 708,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -435,7 +434,7 @@
     "uptime": "97.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.27%",
+    "uptimeMonth": "66.25%",
     "uptimeYear": "95.67%",
     "time": 1625,
     "timeDay": 1086,
@@ -443,7 +442,7 @@
     "timeMonth": 1398,
     "timeYear": 1688,
     "dailyMinutesDown": {
-      "2024-05-27": 699,
+      "2024-05-27": 709,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -482,11 +481,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "75.89%",
-    "uptimeWeek": "79.43%",
-    "uptimeMonth": "92.78%",
+    "uptimeDay": "76.42%",
+    "uptimeWeek": "79.42%",
+    "uptimeMonth": "92.82%",
     "uptimeYear": "99.40%",
     "time": 395,
     "timeDay": 338,
@@ -494,7 +493,7 @@
     "timeMonth": 391,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2024-05-27": 181,
+      "2024-05-27": 182,
       "2024-05-26": 364,
       "2024-05-25": 163,
       "2024-05-24": 308,
@@ -505,7 +504,7 @@
       "2024-05-19": 265,
       "2024-05-18": 342,
       "2024-05-17": 325,
-      "2024-05-16": 40
+      "2024-05-16": 20
     }
   },
   {
@@ -596,7 +595,7 @@
     "timeMonth": 0,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2024-05-27": 699,
+      "2024-05-27": 709,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -1026,7 +1025,7 @@
     "timeMonth": 3723,
     "timeYear": 3128,
     "dailyMinutesDown": {
-      "2024-05-27": 699,
+      "2024-05-27": 709,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
