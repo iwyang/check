@@ -337,7 +337,7 @@
     "timeMonth": 115,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2024-06-25": 915,
+      "2024-06-25": 939,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -454,7 +454,7 @@
     "uptime": "95.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.36%",
+    "uptimeMonth": "37.41%",
     "uptimeYear": "90.96%",
     "time": 1624,
     "timeDay": 1514,
@@ -517,11 +517,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "83.75%",
-    "uptimeWeek": "81.73%",
-    "uptimeMonth": "93.86%",
+    "uptimeDay": "83.68%",
+    "uptimeWeek": "81.72%",
+    "uptimeMonth": "93.93%",
     "uptimeYear": "99.49%",
     "time": 392,
     "timeDay": 403,
@@ -529,7 +529,7 @@
     "timeMonth": 387,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2024-06-25": 176,
+      "2024-06-25": 177,
       "2024-06-24": 224,
       "2024-06-23": 195,
       "2024-06-22": 339,
@@ -539,8 +539,7 @@
       "2024-06-18": 225,
       "2024-06-17": 330,
       "2024-06-16": 62,
-      "2024-06-15": 291,
-      "2024-06-14": 31
+      "2024-06-15": 291
     }
   },
   {
@@ -576,7 +575,7 @@
     "timeDay": 464,
     "timeWeek": 396,
     "timeMonth": 400,
-    "timeYear": 662,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2024-05-12": 169,
       "2024-05-11": 1271,
@@ -598,14 +597,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.12%",
+    "uptimeYear": "15.11%",
     "time": 508,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2024-06-25": 915,
+      "2024-06-25": 939,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -1062,7 +1061,7 @@
     "timeMonth": 3128,
     "timeYear": 3171,
     "dailyMinutesDown": {
-      "2024-06-25": 915,
+      "2024-06-25": 939,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
