@@ -336,7 +336,7 @@
     "timeMonth": 112,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2024-07-04": 319,
+      "2024-07-04": 332,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
@@ -462,7 +462,7 @@
     "uptime": "95.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.87%",
+    "uptimeMonth": "68.90%",
     "uptimeYear": "90.96%",
     "time": 1627,
     "timeDay": 1652,
@@ -525,19 +525,19 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "81.13%",
+    "uptimeDay": "81.08%",
     "uptimeWeek": "82.88%",
-    "uptimeMonth": "93.52%",
-    "uptimeYear": "99.46%",
+    "uptimeMonth": "93.59%",
+    "uptimeYear": "99.47%",
     "time": 389,
     "timeDay": 356,
     "timeWeek": 384,
     "timeMonth": 395,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2024-07-04": 123,
+      "2024-07-04": 124,
       "2024-07-03": 196,
       "2024-07-02": 184,
       "2024-07-01": 248,
@@ -549,7 +549,7 @@
       "2024-06-25": 216,
       "2024-06-24": 224,
       "2024-06-23": 195,
-      "2024-06-22": 264
+      "2024-06-22": 232
     }
   },
   {
@@ -585,7 +585,7 @@
     "timeDay": 360,
     "timeWeek": 387,
     "timeMonth": 392,
-    "timeYear": 543,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2024-05-12": 169,
       "2024-05-11": 1271,
@@ -601,7 +601,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chuckle.top.ico",
     "slug": "25-chuckle",
     "status": "down",
-    "uptime": "49.06%",
+    "uptime": "49.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -612,7 +612,7 @@
     "timeMonth": 0,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2024-07-04": 319,
+      "2024-07-04": 333,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
@@ -977,7 +977,7 @@
     "timeDay": 2734,
     "timeWeek": 2269,
     "timeMonth": 2347,
-    "timeYear": 2085,
+    "timeYear": 2084,
     "dailyMinutesDown": {
       "2024-06-27": 26,
       "2024-05-23": 27,
@@ -1077,7 +1077,7 @@
     "timeMonth": 3172,
     "timeYear": 3152,
     "dailyMinutesDown": {
-      "2024-07-04": 319,
+      "2024-07-04": 333,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
