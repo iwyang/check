@@ -330,7 +330,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.antmoe.com.ico",
     "slug": "16",
     "status": "down",
-    "uptime": "91.39%",
+    "uptime": "91.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -341,7 +341,7 @@
     "timeMonth": 122,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2024-07-24": 817,
+      "2024-07-24": 837,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -547,11 +547,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "76.41%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "77.05%",
     "uptimeWeek": "78.56%",
-    "uptimeMonth": "92.74%",
+    "uptimeMonth": "92.80%",
     "uptimeYear": "99.40%",
     "time": 394,
     "timeDay": 597,
@@ -559,7 +559,7 @@
     "timeMonth": 405,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2024-07-24": 224,
+      "2024-07-24": 225,
       "2024-07-23": 417,
       "2024-07-22": 127,
       "2024-07-21": 363,
@@ -570,7 +570,7 @@
       "2024-07-16": 173,
       "2024-07-15": 219,
       "2024-07-14": 283,
-      "2024-07-13": 258
+      "2024-07-13": 233
     }
   },
   {
@@ -630,7 +630,7 @@
     "timeMonth": 0,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2024-07-24": 818,
+      "2024-07-24": 837,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -1101,14 +1101,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.89%",
+    "uptimeYear": "76.88%",
     "time": 3030,
     "timeDay": 684,
     "timeWeek": 902,
     "timeMonth": 919,
     "timeYear": 3115,
     "dailyMinutesDown": {
-      "2024-07-24": 818,
+      "2024-07-24": 837,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
