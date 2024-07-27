@@ -338,7 +338,7 @@
     "timeMonth": 123,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2024-07-27": 866,
+      "2024-07-27": 876,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
@@ -544,11 +544,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "80.56%",
-    "uptimeWeek": "79.18%",
-    "uptimeMonth": "92.81%",
+    "uptimeDay": "80.50%",
+    "uptimeWeek": "79.17%",
+    "uptimeMonth": "92.85%",
     "uptimeYear": "99.40%",
     "time": 395,
     "timeDay": 379,
@@ -556,7 +556,7 @@
     "timeMonth": 404,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2024-07-27": 174,
+      "2024-07-27": 175,
       "2024-07-26": 280,
       "2024-07-25": 292,
       "2024-07-24": 330,
@@ -567,7 +567,7 @@
       "2024-07-19": 314,
       "2024-07-18": 397,
       "2024-07-17": 131,
-      "2024-07-16": 52
+      "2024-07-16": 35
     }
   },
   {
@@ -627,7 +627,7 @@
     "timeMonth": 0,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2024-07-27": 866,
+      "2024-07-27": 876,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
@@ -1098,7 +1098,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jackxjz.com.ico",
     "slug": "29-jack",
     "status": "down",
-    "uptime": "79.10%",
+    "uptime": "79.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1109,7 +1109,7 @@
     "timeMonth": 918,
     "timeYear": 3108,
     "dailyMinutesDown": {
-      "2024-07-27": 867,
+      "2024-07-27": 876,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
