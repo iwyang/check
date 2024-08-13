@@ -50,8 +50,8 @@
     "status": "down",
     "uptime": "99.26%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.64%",
-    "uptimeMonth": "95.69%",
+    "uptimeWeek": "81.48%",
+    "uptimeMonth": "95.66%",
     "uptimeYear": "98.37%",
     "time": 2010,
     "timeDay": 1528,
@@ -59,7 +59,7 @@
     "timeMonth": 2613,
     "timeYear": 2016,
     "dailyMinutesDown": {
-      "2024-08-13": 499,
+      "2024-08-13": 515,
       "2024-08-12": 1260,
       "2024-08-11": 21,
       "2024-08-08": 70,
@@ -333,8 +333,8 @@
     "status": "up",
     "uptime": "89.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.18%",
-    "uptimeMonth": "17.70%",
+    "uptimeWeek": "85.34%",
+    "uptimeMonth": "17.73%",
     "uptimeYear": "79.24%",
     "time": 306,
     "timeDay": 413,
@@ -560,11 +560,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "71.24%",
-    "uptimeWeek": "81.47%",
-    "uptimeMonth": "93.05%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "71.18%",
+    "uptimeWeek": "81.46%",
+    "uptimeMonth": "93.09%",
     "uptimeYear": "99.42%",
     "time": 392,
     "timeDay": 334,
@@ -572,7 +572,7 @@
     "timeMonth": 409,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2024-08-13": 127,
+      "2024-08-13": 128,
       "2024-08-12": 326,
       "2024-08-11": 174,
       "2024-08-10": 371,
@@ -583,7 +583,7 @@
       "2024-08-05": 268,
       "2024-08-04": 343,
       "2024-08-03": 310,
-      "2024-08-02": 167
+      "2024-08-02": 149
     }
   },
   {
@@ -643,7 +643,7 @@
     "timeMonth": 0,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2024-08-13": 500,
+      "2024-08-13": 516,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
@@ -1136,7 +1136,7 @@
     "timeMonth": 921,
     "timeYear": 3080,
     "dailyMinutesDown": {
-      "2024-08-13": 500,
+      "2024-08-13": 516,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
