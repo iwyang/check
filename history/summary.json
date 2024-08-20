@@ -47,10 +47,10 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "58.00%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "58.38%",
     "uptimeMonth": "85.04%",
     "uptimeYear": "97.50%",
     "time": 2012,
@@ -59,6 +59,7 @@
     "timeMonth": 2482,
     "timeYear": 2015,
     "dailyMinutesDown": {
+      "2024-08-20": 1,
       "2024-08-19": 21,
       "2024-08-18": 37,
       "2024-08-16": 810,
@@ -99,7 +100,7 @@
       "2024-03-19": 788,
       "2024-03-18": 685,
       "2024-03-17": 99,
-      "2024-03-16": 111
+      "2024-03-16": 93
     }
   },
   {
@@ -340,7 +341,7 @@
     "uptime": "89.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.74%",
+    "uptimeMonth": "41.84%",
     "uptimeYear": "79.24%",
     "time": 308,
     "timeDay": 329,
@@ -566,19 +567,19 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "75.91%",
-    "uptimeWeek": "82.96%",
-    "uptimeMonth": "93.86%",
+    "uptimeDay": "75.85%",
+    "uptimeWeek": "82.95%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "99.49%",
     "time": 396,
-    "timeDay": 352,
+    "timeDay": 334,
     "timeWeek": 427,
-    "timeMonth": 410,
+    "timeMonth": 409,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2024-08-20": 221,
+      "2024-08-20": 222,
       "2024-08-19": 225,
       "2024-08-18": 295,
       "2024-08-17": 278,
@@ -588,7 +589,7 @@
       "2024-08-13": 365,
       "2024-08-12": 326,
       "2024-08-11": 174,
-      "2024-08-10": 186
+      "2024-08-10": 171
     }
   },
   {
@@ -648,7 +649,7 @@
     "timeMonth": 0,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2024-08-20": 955,
+      "2024-08-20": 994,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
@@ -1146,7 +1147,7 @@
     "timeMonth": 921,
     "timeYear": 3056,
     "dailyMinutesDown": {
-      "2024-08-20": 955,
+      "2024-08-20": 995,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
