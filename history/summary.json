@@ -49,9 +49,9 @@
     "slug": "05-takagi",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "86.99%",
-    "uptimeMonth": "85.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.42%",
+    "uptimeMonth": "85.04%",
     "uptimeYear": "97.50%",
     "time": 2011,
     "timeDay": 1857,
@@ -59,7 +59,6 @@
     "timeMonth": 2456,
     "timeYear": 2015,
     "dailyMinutesDown": {
-      "2024-08-22": 12,
       "2024-08-19": 21,
       "2024-08-18": 37,
       "2024-08-16": 810,
@@ -100,7 +99,7 @@
       "2024-03-19": 788,
       "2024-03-18": 685,
       "2024-03-17": 99,
-      "2024-03-16": 93
+      "2024-03-16": 111
     }
   },
   {
@@ -341,7 +340,7 @@
     "uptime": "89.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "48.45%",
+    "uptimeMonth": "48.51%",
     "uptimeYear": "79.24%",
     "time": 309,
     "timeDay": 396,
@@ -567,11 +566,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "77.78%",
+    "uptimeDay": "79.13%",
     "uptimeWeek": "79.58%",
-    "uptimeMonth": "93.62%",
+    "uptimeMonth": "93.65%",
     "uptimeYear": "99.47%",
     "time": 400,
     "timeDay": 695,
@@ -579,7 +578,7 @@
     "timeMonth": 423,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2024-08-22": 230,
+      "2024-08-22": 231,
       "2024-08-21": 304,
       "2024-08-20": 412,
       "2024-08-19": 225,
@@ -589,7 +588,7 @@
       "2024-08-15": 281,
       "2024-08-14": 108,
       "2024-08-13": 365,
-      "2024-08-12": 64
+      "2024-08-12": 48
     }
   },
   {
@@ -649,7 +648,7 @@
     "timeMonth": 0,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2024-08-22": 1010,
+      "2024-08-22": 1040,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -1136,18 +1135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jackxjz.com.ico",
     "slug": "29-jack",
     "status": "down",
-    "uptime": "74.45%",
+    "uptime": "74.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.91%",
+    "uptimeYear": "68.90%",
     "time": 2941,
     "timeDay": 1104,
     "timeWeek": 924,
     "timeMonth": 929,
     "timeYear": 3055,
     "dailyMinutesDown": {
-      "2024-08-22": 1010,
+      "2024-08-22": 1041,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
