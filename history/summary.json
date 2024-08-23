@@ -50,7 +50,7 @@
     "status": "up",
     "uptime": "98.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.28%",
+    "uptimeWeek": "91.38%",
     "uptimeMonth": "85.04%",
     "uptimeYear": "97.50%",
     "time": 2011,
@@ -340,7 +340,7 @@
     "uptime": "89.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.40%",
+    "uptimeMonth": "49.43%",
     "uptimeYear": "79.24%",
     "time": 309,
     "timeDay": 551,
@@ -566,19 +566,19 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "76.44%",
-    "uptimeWeek": "79.35%",
-    "uptimeMonth": "93.63%",
+    "uptimeDay": "76.50%",
+    "uptimeWeek": "79.32%",
+    "uptimeMonth": "93.61%",
     "uptimeYear": "99.47%",
     "time": 398,
-    "timeDay": 623,
-    "timeWeek": 464,
+    "timeDay": 609,
+    "timeWeek": 462,
     "timeMonth": 422,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2024-08-22": 330,
+      "2024-08-22": 339,
       "2024-08-21": 304,
       "2024-08-20": 412,
       "2024-08-19": 225,
@@ -647,7 +647,8 @@
     "timeMonth": 0,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2024-08-22": 1430,
+      "2024-08-23": 0,
+      "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -1010,8 +1011,7 @@
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
-      "2023-08-25": 1440,
-      "2023-08-24": 1440
+      "2023-08-25": 1440
     }
   },
   {
@@ -1124,8 +1124,7 @@
       "2023-09-09": 33,
       "2023-09-04": 17,
       "2023-09-02": 21,
-      "2023-09-01": 15,
-      "2023-08-24": 185
+      "2023-09-01": 15
     }
   },
   {
@@ -1138,14 +1137,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.83%",
+    "uptimeYear": "68.82%",
     "time": 2938,
     "timeDay": 1010,
     "timeWeek": 948,
     "timeMonth": 934,
     "timeYear": 3053,
     "dailyMinutesDown": {
-      "2024-08-22": 1430,
+      "2024-08-23": 0,
+      "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
