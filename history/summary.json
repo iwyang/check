@@ -49,17 +49,17 @@
     "slug": "05-takagi",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "84.82%",
-    "uptimeYear": "97.51%",
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "84.84%",
+    "uptimeYear": "97.50%",
     "time": 2013,
     "timeDay": 2047,
-    "timeWeek": 1930,
+    "timeWeek": 1945,
     "timeMonth": 2443,
     "timeYear": 2015,
     "dailyMinutesDown": {
-      "2024-08-25": 54,
+      "2024-08-25": 45,
       "2024-08-24": 40,
       "2024-08-19": 21,
       "2024-08-18": 37,
@@ -100,7 +100,7 @@
       "2024-03-20": 807,
       "2024-03-19": 788,
       "2024-03-18": 685,
-      "2024-03-17": 58
+      "2024-03-17": 99
     }
   },
   {
@@ -337,7 +337,7 @@
     "uptime": "89.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.69%",
+    "uptimeMonth": "58.72%",
     "uptimeYear": "79.24%",
     "time": 310,
     "timeDay": 486,
@@ -563,11 +563,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "84.51%",
+    "uptimeDay": "84.46%",
     "uptimeWeek": "80.03%",
-    "uptimeMonth": "93.39%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "99.45%",
     "time": 402,
     "timeDay": 420,
@@ -575,7 +575,7 @@
     "timeMonth": 423,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2024-08-25": 197,
+      "2024-08-25": 198,
       "2024-08-24": 235,
       "2024-08-23": 279,
       "2024-08-22": 329,
@@ -585,7 +585,7 @@
       "2024-08-18": 295,
       "2024-08-17": 278,
       "2024-08-16": 230,
-      "2024-08-15": 110
+      "2024-08-15": 83
     }
   },
   {
@@ -645,7 +645,7 @@
     "timeMonth": 0,
     "timeYear": 526,
     "dailyMinutesDown": {
-      "2024-08-25": 1179,
+      "2024-08-25": 1189,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
@@ -1144,7 +1144,7 @@
     "timeMonth": 943,
     "timeYear": 3039,
     "dailyMinutesDown": {
-      "2024-08-25": 1180,
+      "2024-08-25": 1189,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
