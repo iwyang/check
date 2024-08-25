@@ -113,7 +113,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.23%",
-    "uptimeYear": "96.95%",
+    "uptimeYear": "96.96%",
     "time": 2013,
     "timeDay": 2187,
     "timeWeek": 1812,
@@ -337,7 +337,7 @@
     "uptime": "89.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.17%",
+    "uptimeMonth": "56.24%",
     "uptimeYear": "79.24%",
     "time": 310,
     "timeDay": 486,
@@ -563,11 +563,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "84.59%",
-    "uptimeWeek": "79.36%",
-    "uptimeMonth": "93.41%",
+    "uptimeDay": "86.65%",
+    "uptimeWeek": "79.35%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "99.45%",
     "time": 400,
     "timeDay": 649,
@@ -575,6 +575,7 @@
     "timeMonth": 424,
     "timeYear": 403,
     "dailyMinutesDown": {
+      "2024-08-25": 1,
       "2024-08-24": 235,
       "2024-08-23": 279,
       "2024-08-22": 329,
@@ -584,8 +585,7 @@
       "2024-08-18": 295,
       "2024-08-17": 278,
       "2024-08-16": 230,
-      "2024-08-15": 281,
-      "2024-08-14": 18
+      "2024-08-15": 281
     }
   },
   {
@@ -645,7 +645,7 @@
     "timeMonth": 0,
     "timeYear": 526,
     "dailyMinutesDown": {
-      "2024-08-25": 73,
+      "2024-08-25": 104,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
@@ -1132,7 +1132,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jackxjz.com.ico",
     "slug": "29-jack",
     "status": "down",
-    "uptime": "74.06%",
+    "uptime": "74.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1143,7 +1143,7 @@
     "timeMonth": 943,
     "timeYear": 3039,
     "dailyMinutesDown": {
-      "2024-08-25": 73,
+      "2024-08-25": 104,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
