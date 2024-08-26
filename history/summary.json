@@ -337,7 +337,7 @@
     "uptime": "89.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.28%",
+    "uptimeMonth": "60.34%",
     "uptimeYear": "79.24%",
     "time": 311,
     "timeDay": 865,
@@ -562,11 +562,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "86.02%",
+    "uptimeDay": "85.94%",
     "uptimeWeek": "79.60%",
-    "uptimeMonth": "93.27%",
+    "uptimeMonth": "93.31%",
     "uptimeYear": "99.44%",
     "time": 402,
     "timeDay": 402,
@@ -574,7 +574,7 @@
     "timeMonth": 423,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2024-08-26": 59,
+      "2024-08-26": 60,
       "2024-08-25": 263,
       "2024-08-24": 235,
       "2024-08-23": 279,
@@ -585,7 +585,7 @@
       "2024-08-18": 295,
       "2024-08-17": 278,
       "2024-08-16": 230,
-      "2024-08-15": 37
+      "2024-08-15": 20
     }
   },
   {
@@ -634,7 +634,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chuckle.top.ico",
     "slug": "25-chuckle",
     "status": "down",
-    "uptime": "45.22%",
+    "uptime": "45.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -645,7 +645,7 @@
     "timeMonth": 0,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2024-08-26": 436,
+      "2024-08-26": 460,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -1144,7 +1144,7 @@
     "timeMonth": 937,
     "timeYear": 3036,
     "dailyMinutesDown": {
-      "2024-08-26": 436,
+      "2024-08-26": 460,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
