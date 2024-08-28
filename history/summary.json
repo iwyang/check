@@ -337,7 +337,7 @@
     "uptime": "89.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.01%",
+    "uptimeMonth": "67.07%",
     "uptimeYear": "79.24%",
     "time": 313,
     "timeDay": 741,
@@ -502,7 +502,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.leonus.cn.ico",
     "slug": "20-leonus",
     "status": "up",
-    "uptime": "95.55%",
+    "uptime": "95.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
@@ -562,11 +562,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "84.50%",
-    "uptimeWeek": "81.11%",
-    "uptimeMonth": "93.05%",
+    "uptimeDay": "84.45%",
+    "uptimeWeek": "81.10%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "99.42%",
     "time": 401,
     "timeDay": 424,
@@ -574,7 +574,7 @@
     "timeMonth": 426,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2024-08-28": 96,
+      "2024-08-28": 97,
       "2024-08-27": 293,
       "2024-08-26": 240,
       "2024-08-25": 263,
@@ -585,7 +585,7 @@
       "2024-08-20": 412,
       "2024-08-19": 225,
       "2024-08-18": 295,
-      "2024-08-17": 72
+      "2024-08-17": 56
     }
   },
   {
