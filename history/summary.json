@@ -27,12 +27,12 @@
     "slug": "02-const-own",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 1579,
-    "timeDay": 1434,
+    "timeDay": 1422,
     "timeWeek": 1460,
     "timeMonth": 1577,
     "timeYear": 1607,
@@ -47,10 +47,10 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.01%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "84.81%",
     "uptimeYear": "97.51%",
     "time": 2007,
@@ -59,6 +59,7 @@
     "timeMonth": 2437,
     "timeYear": 2005,
     "dailyMinutesDown": {
+      "2024-08-29": 0,
       "2024-08-26": 16,
       "2024-08-25": 45,
       "2024-08-24": 40,
@@ -101,7 +102,7 @@
       "2024-03-20": 807,
       "2024-03-19": 788,
       "2024-03-18": 685,
-      "2024-03-17": 58
+      "2024-03-17": 20
     }
   },
   {
@@ -337,7 +338,7 @@
     "uptime": "89.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.76%",
+    "uptimeMonth": "70.79%",
     "uptimeYear": "79.24%",
     "time": 313,
     "timeDay": 600,
@@ -562,17 +563,17 @@
     "slug": "21-eurkon",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "84.31%",
-    "uptimeWeek": "81.88%",
-    "uptimeMonth": "93.11%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "85.00%",
+    "uptimeWeek": "81.99%",
+    "uptimeMonth": "93.07%",
+    "uptimeYear": "99.42%",
     "time": 400,
     "timeDay": 454,
     "timeWeek": 452,
     "timeMonth": 419,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2024-08-29": 134,
+      "2024-08-29": 124,
       "2024-08-28": 208,
       "2024-08-27": 293,
       "2024-08-26": 240,
@@ -583,7 +584,7 @@
       "2024-08-21": 304,
       "2024-08-20": 412,
       "2024-08-19": 225,
-      "2024-08-18": 93
+      "2024-08-18": 122
     }
   },
   {
