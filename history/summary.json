@@ -28,16 +28,17 @@
     "status": "down",
     "uptime": "99.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "37.22%",
-    "uptimeMonth": "85.55%",
-    "uptimeYear": "98.79%",
+    "uptimeWeek": "36.50%",
+    "uptimeMonth": "85.39%",
+    "uptimeYear": "98.77%",
     "time": 1588,
     "timeDay": 1337,
     "timeWeek": 1832,
     "timeMonth": 1665,
     "timeYear": 1613,
     "dailyMinutesDown": {
-      "2024-09-03": 1437,
+      "2024-09-04": 70,
+      "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -119,7 +120,7 @@
     "uptime": "98.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.35%",
+    "uptimeMonth": "96.51%",
     "uptimeYear": "96.97%",
     "time": 2011,
     "timeDay": 1680,
@@ -330,8 +331,7 @@
       "2023-10-14": 16,
       "2023-10-12": 23,
       "2023-09-25": 36,
-      "2023-09-23": 15,
-      "2023-09-05": 20
+      "2023-09-23": 15
     }
   },
   {
@@ -343,7 +343,7 @@
     "uptime": "90.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.87%",
+    "uptimeMonth": "89.04%",
     "uptimeYear": "79.24%",
     "time": 317,
     "timeDay": 743,
@@ -567,18 +567,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "76.63%",
-    "uptimeWeek": "79.83%",
-    "uptimeMonth": "93.00%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.71%",
+    "uptimeDay": "71.57%",
+    "uptimeWeek": "79.11%",
+    "uptimeMonth": "92.83%",
+    "uptimeYear": "99.40%",
     "time": 402,
     "timeDay": 479,
     "timeWeek": 446,
     "timeMonth": 433,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2024-09-03": 337,
+      "2024-09-04": 71,
+      "2024-09-03": 339,
       "2024-09-02": 427,
       "2024-09-01": 172,
       "2024-08-31": 357,
@@ -772,8 +773,7 @@
       "2024-02-17": 1089,
       "2024-02-16": 162,
       "2023-10-22": 21,
-      "2023-10-06": 26,
-      "2023-09-05": 82
+      "2023-10-06": 26
     }
   }
 ]
