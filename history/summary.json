@@ -13,7 +13,7 @@
     "time": 548,
     "timeDay": 292,
     "timeWeek": 564,
-    "timeMonth": 696,
+    "timeMonth": 695,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2024-07-21": 47,
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.juanertu.com.ico",
     "slug": "02-const-own",
     "status": "down",
-    "uptime": "98.17%",
+    "uptime": "98.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.75%",
-    "uptimeYear": "96.05%",
+    "uptimeMonth": "52.52%",
+    "uptimeYear": "96.03%",
     "time": 1588,
     "timeDay": 1020,
     "timeWeek": 1333,
     "timeMonth": 1628,
     "timeYear": 1608,
     "dailyMinutesDown": {
-      "2024-09-13": 1406,
+      "2024-09-14": 70,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -66,7 +67,7 @@
     "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.07%",
+    "uptimeMonth": "91.30%",
     "uptimeYear": "97.51%",
     "time": 2015,
     "timeDay": 1802,
@@ -178,8 +179,7 @@
       "2023-09-20": 63,
       "2023-09-19": 57,
       "2023-09-17": 29,
-      "2023-09-16": 19,
-      "2023-09-15": 37
+      "2023-09-16": 19
     }
   },
   {
@@ -478,8 +478,7 @@
       "2023-09-20": 69,
       "2023-09-19": 39,
       "2023-09-18": 26,
-      "2023-09-16": 45,
-      "2023-09-15": 34
+      "2023-09-16": 45
     }
   },
   {
@@ -567,17 +566,17 @@
     "slug": "21-eurkon",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "78.43%",
-    "uptimeWeek": "83.32%",
-    "uptimeMonth": "93.79%",
+    "uptimeDay": "82.44%",
+    "uptimeWeek": "83.45%",
+    "uptimeMonth": "93.78%",
     "uptimeYear": "99.48%",
     "time": 407,
-    "timeDay": 499,
-    "timeWeek": 465,
+    "timeDay": 504,
+    "timeWeek": 466,
     "timeMonth": 460,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2024-09-13": 303,
+      "2024-09-13": 290,
       "2024-09-12": 315,
       "2024-09-11": 113,
       "2024-09-10": 337,
@@ -587,7 +586,7 @@
       "2024-09-06": 285,
       "2024-09-05": 267,
       "2024-09-04": 346,
-      "2024-09-03": 140
+      "2024-09-03": 156
     }
   },
   {
