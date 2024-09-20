@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.juanertu.com.ico",
     "slug": "02-const-own",
     "status": "down",
-    "uptime": "97.47%",
+    "uptime": "97.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "33.04%",
-    "uptimeYear": "94.41%",
+    "uptimeMonth": "32.79%",
+    "uptimeYear": "94.39%",
     "time": 1589,
     "timeDay": 1371,
     "timeWeek": 1213,
     "timeMonth": 1534,
     "timeYear": 1605,
     "dailyMinutesDown": {
-      "2024-09-19": 1403,
+      "2024-09-20": 72,
+      "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
@@ -69,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.61%",
@@ -179,8 +180,7 @@
       "2023-10-12": 23,
       "2023-10-10": 44,
       "2023-10-05": 44,
-      "2023-09-28": 26,
-      "2023-09-21": 44
+      "2023-09-28": 26
     }
   },
   {
@@ -561,17 +561,17 @@
     "slug": "21-eurkon",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "79.59%",
-    "uptimeWeek": "80.15%",
-    "uptimeMonth": "93.99%",
+    "uptimeDay": "80.26%",
+    "uptimeWeek": "80.69%",
+    "uptimeMonth": "93.97%",
     "uptimeYear": "99.50%",
     "time": 408,
-    "timeDay": 451,
+    "timeDay": 458,
     "timeWeek": 442,
-    "timeMonth": 457,
+    "timeMonth": 458,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2024-09-19": 294,
+      "2024-09-19": 284,
       "2024-09-18": 363,
       "2024-09-17": 267,
       "2024-09-16": 241,
@@ -580,7 +580,7 @@
       "2024-09-13": 290,
       "2024-09-12": 315,
       "2024-09-11": 113,
-      "2024-09-10": 214
+      "2024-09-10": 232
     }
   },
   {
