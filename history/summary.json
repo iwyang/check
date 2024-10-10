@@ -26,10 +26,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
     "status": "down",
-    "uptime": "98.45%",
+    "uptime": "98.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.40%",
-    "uptimeMonth": "85.74%",
+    "uptimeWeek": "38.09%",
+    "uptimeMonth": "85.67%",
     "uptimeYear": "96.34%",
     "time": 1954,
     "timeDay": 0,
@@ -37,7 +37,7 @@
     "timeMonth": 2094,
     "timeYear": 1924,
     "dailyMinutesDown": {
-      "2024-10-10": 526,
+      "2024-10-10": 557,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -515,11 +515,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "70.09%",
-    "uptimeWeek": "77.29%",
-    "uptimeMonth": "92.39%",
+    "uptimeDay": "70.02%",
+    "uptimeWeek": "77.28%",
+    "uptimeMonth": "92.43%",
     "uptimeYear": "99.37%",
     "time": 410,
     "timeDay": 357,
@@ -527,7 +527,7 @@
     "timeMonth": 434,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2024-10-10": 227,
+      "2024-10-10": 228,
       "2024-10-09": 269,
       "2024-10-08": 309,
       "2024-10-07": 407,
@@ -537,7 +537,7 @@
       "2024-10-03": 438,
       "2024-10-02": 416,
       "2024-10-01": 274,
-      "2024-09-30": 61
+      "2024-09-30": 42
     }
   },
   {
