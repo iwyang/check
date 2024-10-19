@@ -27,8 +27,8 @@
     "slug": "05-takagi",
     "status": "up",
     "uptime": "97.56%",
-    "uptimeDay": "79.81%",
-    "uptimeWeek": "11.40%",
+    "uptimeDay": "84.96%",
+    "uptimeWeek": "12.14%",
     "uptimeMonth": "60.07%",
     "uptimeYear": "94.19%",
     "time": 1954,
@@ -295,8 +295,7 @@
       "2023-11-01": 38,
       "2023-10-31": 22,
       "2023-10-27": 41,
-      "2023-10-26": 7,
-      "2023-10-20": 24
+      "2023-10-26": 7
     }
   },
   {
@@ -518,7 +517,7 @@
     "slug": "21-eurkon",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "70.99%",
+    "uptimeDay": "76.15%",
     "uptimeWeek": "78.32%",
     "uptimeMonth": "92.52%",
     "uptimeYear": "99.38%",
