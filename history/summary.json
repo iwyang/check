@@ -28,17 +28,16 @@
     "slug": "05-takagi",
     "status": "up",
     "uptime": "97.57%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "77.32%",
-    "uptimeMonth": "60.04%",
-    "uptimeYear": "94.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "78.48%",
+    "uptimeMonth": "60.07%",
+    "uptimeYear": "94.19%",
     "time": 1951,
     "timeDay": 2252,
     "timeWeek": 2309,
     "timeMonth": 2160,
     "timeYear": 1919,
     "dailyMinutesDown": {
-      "2024-10-23": 9,
       "2024-10-18": 290,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
@@ -95,7 +94,7 @@
       "2024-03-21": 408,
       "2024-03-20": 807,
       "2024-03-19": 788,
-      "2024-03-18": 560
+      "2024-03-18": 590
     }
   },
   {
@@ -275,7 +274,7 @@
     "uptimeYear": "99.91%",
     "time": 1420,
     "timeDay": 1286,
-    "timeWeek": 1096,
+    "timeWeek": 1117,
     "timeMonth": 1275,
     "timeYear": 1386,
     "dailyMinutesDown": {
@@ -518,11 +517,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "85.87%",
-    "uptimeWeek": "77.26%",
-    "uptimeMonth": "92.64%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "88.92%",
+    "uptimeWeek": "77.25%",
+    "uptimeMonth": "92.70%",
     "uptimeYear": "99.39%",
     "time": 413,
     "timeDay": 439,
@@ -530,7 +529,7 @@
     "timeMonth": 434,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2024-10-23": 139,
+      "2024-10-23": 140,
       "2024-10-22": 379,
       "2024-10-21": 337,
       "2024-10-20": 347,
@@ -540,7 +539,7 @@
       "2024-10-16": 277,
       "2024-10-15": 304,
       "2024-10-14": 426,
-      "2024-10-13": 51
+      "2024-10-13": 27
     }
   },
   {
