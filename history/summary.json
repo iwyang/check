@@ -276,7 +276,7 @@
     "timeDay": 1462,
     "timeWeek": 1262,
     "timeMonth": 1268,
-    "timeYear": 1376,
+    "timeYear": 1375,
     "dailyMinutesDown": {
       "2024-05-23": 17,
       "2024-05-10": 20,
@@ -304,7 +304,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.antmoe.com.ico",
     "slug": "16",
     "status": "up",
-    "uptime": "90.70%",
+    "uptime": "90.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -515,19 +515,19 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "85.30%",
-    "uptimeWeek": "74.16%",
-    "uptimeMonth": "92.21%",
+    "uptimeDay": "86.87%",
+    "uptimeWeek": "74.82%",
+    "uptimeMonth": "92.26%",
     "uptimeYear": "99.35%",
     "time": 415,
-    "timeDay": 421,
-    "timeWeek": 496,
+    "timeDay": 429,
+    "timeWeek": 495,
     "timeMonth": 443,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2024-10-28": 69,
+      "2024-10-28": 70,
       "2024-10-27": 300,
       "2024-10-26": 498,
       "2024-10-25": 474,
@@ -536,7 +536,7 @@
       "2024-10-22": 379,
       "2024-10-21": 337,
       "2024-10-20": 347,
-      "2024-10-19": 331
+      "2024-10-19": 310
     }
   },
   {
@@ -618,7 +618,7 @@
     "timeDay": 2852,
     "timeWeek": 2612,
     "timeMonth": 2564,
-    "timeYear": 2211,
+    "timeYear": 2213,
     "dailyMinutesDown": {
       "2024-09-19": 44,
       "2024-09-02": 19,
