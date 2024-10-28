@@ -515,19 +515,19 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "84.77%",
-    "uptimeWeek": "74.65%",
-    "uptimeMonth": "92.28%",
+    "uptimeDay": "85.11%",
+    "uptimeWeek": "74.64%",
+    "uptimeMonth": "92.32%",
     "uptimeYear": "99.36%",
     "time": 415,
-    "timeDay": 467,
+    "timeDay": 476,
     "timeWeek": 491,
     "timeMonth": 443,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2024-10-28": 186,
+      "2024-10-28": 187,
       "2024-10-27": 300,
       "2024-10-26": 498,
       "2024-10-25": 474,
@@ -536,7 +536,7 @@
       "2024-10-22": 379,
       "2024-10-21": 337,
       "2024-10-20": 347,
-      "2024-10-19": 188
+      "2024-10-19": 168
     }
   },
   {
