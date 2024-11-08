@@ -37,6 +37,8 @@ sites:
     url: https://meuicat.com/ 
   - name: 30我不是咕咕鸽
     url: https://blog.laoda.de/   
+  - name: 31CWorld Site
+    url: https://cworld.top/  
        
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
