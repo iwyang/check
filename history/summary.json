@@ -111,7 +111,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "76.21%",
-    "uptimeYear": "95.39%",
+    "uptimeYear": "95.40%",
     "time": 1959,
     "timeDay": 0,
     "timeWeek": 0,
@@ -152,8 +152,7 @@
       "2023-11-26": 19,
       "2023-11-23": 104,
       "2023-11-22": 1440,
-      "2023-11-21": 1440,
-      "2023-11-20": 1440
+      "2023-11-21": 1440
     }
   },
   {
@@ -296,8 +295,7 @@
       "2023-12-22": 22,
       "2023-12-10": 18,
       "2023-12-04": 20,
-      "2023-11-21": 25,
-      "2023-11-20": 15
+      "2023-11-21": 25
     }
   },
   {
@@ -306,7 +304,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.antmoe.com.ico",
     "slug": "16",
     "status": "up",
-    "uptime": "90.94%",
+    "uptime": "90.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -429,8 +427,7 @@
       "2023-12-20": 18,
       "2023-12-18": 19,
       "2023-12-05": 16,
-      "2023-12-04": 40,
-      "2023-11-20": 17
+      "2023-12-04": 40
     }
   },
   {
@@ -511,19 +508,20 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "85.25%",
-    "uptimeWeek": "79.31%",
-    "uptimeMonth": "92.84%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "85.87%",
+    "uptimeWeek": "80.17%",
+    "uptimeMonth": "92.86%",
+    "uptimeYear": "99.41%",
     "time": 419,
     "timeDay": 491,
-    "timeWeek": 444,
-    "timeMonth": 461,
+    "timeWeek": 443,
+    "timeMonth": 462,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2024-11-18": 212,
+      "2024-11-19": 1,
+      "2024-11-18": 202,
       "2024-11-17": 300,
       "2024-11-16": 452,
       "2024-11-15": 136,
@@ -581,18 +579,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lyshark.com.ico",
     "slug": "27lyshark",
     "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "55.60%",
-    "uptimeWeek": "93.66%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.69%",
+    "uptimeDay": "49.50%",
+    "uptimeWeek": "92.79%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "99.77%",
     "time": 1840,
     "timeDay": 1595,
     "timeWeek": 1842,
     "timeMonth": 1932,
     "timeYear": 1861,
     "dailyMinutesDown": {
-      "2024-11-18": 639,
+      "2024-11-19": 74,
+      "2024-11-18": 653,
       "2024-07-01": 20,
       "2024-03-06": 193,
       "2024-03-05": 92,
