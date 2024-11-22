@@ -26,10 +26,10 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "up",
+    "status": "down",
     "uptime": "97.67%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "94.24%",
     "time": 1944,
@@ -38,6 +38,7 @@
     "timeMonth": 2177,
     "timeYear": 1918,
     "dailyMinutesDown": {
+      "2024-11-22": 1,
       "2024-11-21": 26,
       "2024-11-14": 16,
       "2024-11-10": 17,
@@ -99,7 +100,7 @@
       "2024-03-21": 408,
       "2024-03-20": 807,
       "2024-03-19": 788,
-      "2024-03-18": 239
+      "2024-03-18": 209
     }
   },
   {
@@ -112,7 +113,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "76.21%",
-    "uptimeYear": "96.23%",
+    "uptimeYear": "96.24%",
     "time": 1958,
     "timeDay": 0,
     "timeWeek": 0,
@@ -505,18 +506,19 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "84.14%",
-    "uptimeWeek": "80.66%",
-    "uptimeMonth": "92.37%",
-    "uptimeYear": "99.36%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "84.09%",
+    "uptimeWeek": "80.65%",
+    "uptimeMonth": "92.41%",
+    "uptimeYear": "99.37%",
     "time": 420,
     "timeDay": 389,
     "timeWeek": 479,
-    "timeMonth": 457,
+    "timeMonth": 456,
     "timeYear": 421,
     "dailyMinutesDown": {
+      "2024-11-22": 1,
       "2024-11-21": 302,
       "2024-11-20": 207,
       "2024-11-19": 349,
@@ -527,8 +529,7 @@
       "2024-11-14": 371,
       "2024-11-13": 210,
       "2024-11-12": 400,
-      "2024-11-11": 393,
-      "2024-11-10": 22
+      "2024-11-11": 393
     }
   },
   {
@@ -578,7 +579,7 @@
     "slug": "27lyshark",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "59.80%",
+    "uptimeDay": "65.48%",
     "uptimeWeek": "58.42%",
     "uptimeMonth": "90.43%",
     "uptimeYear": "99.12%",
