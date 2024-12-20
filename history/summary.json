@@ -522,17 +522,17 @@
     "slug": "21-eurkon",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "81.05%",
-    "uptimeWeek": "79.84%",
-    "uptimeMonth": "92.80%",
+    "uptimeDay": "82.01%",
+    "uptimeWeek": "80.76%",
+    "uptimeMonth": "92.76%",
     "uptimeYear": "99.40%",
     "time": 418,
-    "timeDay": 419,
+    "timeDay": 421,
     "timeWeek": 415,
     "timeMonth": 410,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-12-19": 271,
+      "2024-12-19": 260,
       "2024-12-18": 422,
       "2024-12-17": 122,
       "2024-12-16": 182,
@@ -543,7 +543,7 @@
       "2024-12-11": 316,
       "2024-12-10": 209,
       "2024-12-09": 281,
-      "2024-12-08": 33
+      "2024-12-08": 58
     }
   },
   {
@@ -595,7 +595,7 @@
     "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.24%",
+    "uptimeMonth": "94.46%",
     "uptimeYear": "99.04%",
     "time": 1846,
     "timeDay": 1450,
