@@ -13,7 +13,7 @@
     "time": 558,
     "timeDay": 810,
     "timeWeek": 633,
-    "timeMonth": 598,
+    "timeMonth": 600,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2024-12-16": 53,
@@ -38,7 +38,7 @@
     "time": 1931,
     "timeDay": 1862,
     "timeWeek": 2044,
-    "timeMonth": 2397,
+    "timeMonth": 2389,
     "timeYear": 1927,
     "dailyMinutesDown": {
       "2024-11-29": 214,
@@ -184,7 +184,7 @@
     "time": 2562,
     "timeDay": 1648,
     "timeWeek": 1558,
-    "timeMonth": 1507,
+    "timeMonth": 1494,
     "timeYear": 2859,
     "dailyMinutesDown": {
       "2024-11-25": 19,
@@ -239,7 +239,7 @@
     "time": 872,
     "timeDay": 706,
     "timeWeek": 598,
-    "timeMonth": 476,
+    "timeMonth": 482,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2024-07-11": 236,
@@ -276,7 +276,7 @@
     "time": 377,
     "timeDay": 360,
     "timeWeek": 306,
-    "timeMonth": 304,
+    "timeMonth": 301,
     "timeYear": 342,
     "dailyMinutesDown": {}
   },
@@ -294,7 +294,7 @@
     "time": 1377,
     "timeDay": 1071,
     "timeWeek": 1297,
-    "timeMonth": 1345,
+    "timeMonth": 1334,
     "timeYear": 1365,
     "dailyMinutesDown": {
       "2024-12-11": 30,
@@ -326,7 +326,7 @@
     "time": 367,
     "timeDay": 712,
     "timeWeek": 516,
-    "timeMonth": 632,
+    "timeMonth": 631,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2024-08-07": 553,
@@ -423,7 +423,7 @@
     "time": 2142,
     "timeDay": 1424,
     "timeWeek": 1624,
-    "timeMonth": 2156,
+    "timeMonth": 2171,
     "timeYear": 1860,
     "dailyMinutesDown": {
       "2024-12-17": 43,
@@ -456,7 +456,7 @@
     "time": 422,
     "timeDay": 412,
     "timeWeek": 408,
-    "timeMonth": 334,
+    "timeMonth": 335,
     "timeYear": 422,
     "dailyMinutesDown": {
       "2024-01-17": 27
@@ -519,19 +519,19 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "76.92%",
-    "uptimeWeek": "79.91%",
-    "uptimeMonth": "93.37%",
+    "uptimeDay": "76.86%",
+    "uptimeWeek": "79.90%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
     "time": 418,
-    "timeDay": 361,
+    "timeDay": 349,
     "timeWeek": 416,
-    "timeMonth": 401,
+    "timeMonth": 402,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-12-27": 332,
+      "2024-12-27": 333,
       "2024-12-26": 204,
       "2024-12-25": 204,
       "2024-12-24": 167,
@@ -540,7 +540,7 @@
       "2024-12-21": 368,
       "2024-12-20": 374,
       "2024-12-19": 260,
-      "2024-12-18": 245
+      "2024-12-18": 225
     }
   },
   {
@@ -575,7 +575,7 @@
     "time": 429,
     "timeDay": 459,
     "timeWeek": 436,
-    "timeMonth": 348,
+    "timeMonth": 346,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2024-05-12": 169,
@@ -591,13 +591,13 @@
     "status": "up",
     "uptime": "99.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.74%",
+    "uptimeWeek": "98.00%",
     "uptimeMonth": "95.56%",
     "uptimeYear": "98.75%",
     "time": 1843,
     "timeDay": 1732,
     "timeWeek": 1634,
-    "timeMonth": 1719,
+    "timeMonth": 1714,
     "timeYear": 1851,
     "dailyMinutesDown": {
       "2024-12-21": 181,
@@ -629,7 +629,7 @@
     "time": 2178,
     "timeDay": 1594,
     "timeWeek": 1735,
-    "timeMonth": 1927,
+    "timeMonth": 1925,
     "timeYear": 2192,
     "dailyMinutesDown": {
       "2024-12-27": 23,
@@ -700,7 +700,7 @@
     "time": 910,
     "timeDay": 697,
     "timeWeek": 681,
-    "timeMonth": 675,
+    "timeMonth": 672,
     "timeYear": 1013,
     "dailyMinutesDown": {
       "2024-10-02": 109,
@@ -734,7 +734,7 @@
     "time": 342,
     "timeDay": 290,
     "timeWeek": 310,
-    "timeMonth": 340,
+    "timeMonth": 341,
     "timeYear": 342,
     "dailyMinutesDown": {}
   }
