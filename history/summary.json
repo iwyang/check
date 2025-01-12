@@ -29,18 +29,19 @@
     "url": "https://lixingyong.com",
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
-    "status": "up",
-    "uptime": "97.78%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.79%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "94.21%",
+    "uptimeYear": "94.22%",
     "time": 1929,
     "timeDay": 1919,
     "timeWeek": 1765,
     "timeMonth": 2105,
     "timeYear": 1917,
     "dailyMinutesDown": {
+      "2025-01-12": 0,
       "2025-01-11": 30,
       "2024-11-29": 214,
       "2024-11-28": 89,
@@ -107,7 +108,7 @@
       "2024-03-22": 42,
       "2024-03-21": 408,
       "2024-03-20": 807,
-      "2024-03-19": 663
+      "2024-03-19": 605
     }
   },
   {
@@ -459,10 +460,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.leonus.cn.ico",
     "slug": "20-leonus",
     "status": "down",
-    "uptime": "95.93%",
+    "uptime": "95.92%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.48%",
-    "uptimeMonth": "90.86%",
+    "uptimeWeek": "60.30%",
+    "uptimeMonth": "90.81%",
     "uptimeYear": "91.64%",
     "time": 1539,
     "timeDay": 0,
@@ -470,7 +471,7 @@
     "timeMonth": 1459,
     "timeYear": 1477,
     "dailyMinutesDown": {
-      "2025-01-12": 1101,
+      "2025-01-12": 1119,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 3,
@@ -514,11 +515,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "78.01%",
-    "uptimeWeek": "80.43%",
-    "uptimeMonth": "92.63%",
+    "uptimeDay": "79.04%",
+    "uptimeWeek": "80.42%",
+    "uptimeMonth": "92.66%",
     "uptimeYear": "99.39%",
     "time": 419,
     "timeDay": 494,
@@ -526,7 +527,7 @@
     "timeMonth": 422,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2025-01-12": 159,
+      "2025-01-12": 160,
       "2025-01-11": 315,
       "2025-01-10": 245,
       "2025-01-09": 289,
@@ -537,7 +538,7 @@
       "2025-01-04": 310,
       "2025-01-03": 326,
       "2025-01-02": 344,
-      "2025-01-01": 172
+      "2025-01-01": 155
     }
   },
   {
