@@ -13,7 +13,7 @@
     "time": 566,
     "timeDay": 842,
     "timeWeek": 655,
-    "timeMonth": 626,
+    "timeMonth": 636,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2024-12-16": 53,
@@ -37,7 +37,7 @@
     "time": 1932,
     "timeDay": 1855,
     "timeWeek": 1843,
-    "timeMonth": 2001,
+    "timeMonth": 1985,
     "timeYear": 1939,
     "dailyMinutesDown": {
       "2025-01-20": 201,
@@ -127,7 +127,7 @@
     "time": 1935,
     "timeDay": 1561,
     "timeWeek": 1400,
-    "timeMonth": 1416,
+    "timeMonth": 1409,
     "timeYear": 1781,
     "dailyMinutesDown": {
       "2024-12-27": 102,
@@ -185,7 +185,7 @@
     "time": 2564,
     "timeDay": 1631,
     "timeWeek": 1548,
-    "timeMonth": 1493,
+    "timeMonth": 1499,
     "timeYear": 2862,
     "dailyMinutesDown": {
       "2025-01-22": 63,
@@ -238,7 +238,7 @@
     "time": 766,
     "timeDay": 155,
     "timeWeek": 410,
-    "timeMonth": 499,
+    "timeMonth": 476,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2024-07-11": 236,
@@ -293,7 +293,7 @@
     "time": 1369,
     "timeDay": 1188,
     "timeWeek": 1117,
-    "timeMonth": 1206,
+    "timeMonth": 1196,
     "timeYear": 1346,
     "dailyMinutesDown": {
       "2025-01-01": 29,
@@ -323,7 +323,7 @@
     "time": 367,
     "timeDay": 635,
     "timeWeek": 488,
-    "timeMonth": 504,
+    "timeMonth": 500,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2024-08-07": 553,
@@ -419,7 +419,7 @@
     "time": 2149,
     "timeDay": 1768,
     "timeWeek": 1660,
-    "timeMonth": 1686,
+    "timeMonth": 1688,
     "timeYear": 1863,
     "dailyMinutesDown": {
       "2024-12-29": 29,
@@ -451,7 +451,7 @@
     "time": 410,
     "timeDay": 321,
     "timeWeek": 272,
-    "timeMonth": 296,
+    "timeMonth": 291,
     "timeYear": 415,
     "dailyMinutesDown": {}
   },
@@ -463,13 +463,13 @@
     "status": "up",
     "uptime": "95.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "62.69%",
+    "uptimeWeek": "62.72%",
     "uptimeMonth": "71.79%",
     "uptimeYear": "90.05%",
     "time": 1544,
     "timeDay": 1468,
     "timeWeek": 1407,
-    "timeMonth": 1416,
+    "timeMonth": 1420,
     "timeYear": 1475,
     "dailyMinutesDown": {
       "2025-01-18": 834,
@@ -522,19 +522,19 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "81.19%",
-    "uptimeWeek": "77.52%",
-    "uptimeMonth": "92.74%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "81.33%",
+    "uptimeWeek": "77.51%",
+    "uptimeMonth": "92.81%",
+    "uptimeYear": "99.40%",
     "time": 419,
     "timeDay": 434,
     "timeWeek": 447,
     "timeMonth": 429,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2025-01-22": 242,
+      "2025-01-22": 243,
       "2025-01-21": 493,
       "2025-01-20": 245,
       "2025-01-19": 313,
@@ -544,7 +544,7 @@
       "2025-01-15": 350,
       "2025-01-14": 194,
       "2025-01-13": 333,
-      "2025-01-12": 38
+      "2025-01-12": 4
     }
   },
   {
