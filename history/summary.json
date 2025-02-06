@@ -30,17 +30,17 @@
     "slug": "05-takagi",
     "status": "up",
     "uptime": "97.54%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "89.68%",
-    "uptimeYear": "93.40%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "89.71%",
+    "uptimeYear": "93.39%",
     "time": 1922,
     "timeDay": 1908,
     "timeWeek": 1922,
     "timeMonth": 1864,
     "timeYear": 1931,
     "dailyMinutesDown": {
-      "2025-02-06": 34,
+      "2025-02-06": 21,
       "2025-01-23": 19,
       "2025-01-20": 201,
       "2025-01-19": 1440,
@@ -112,7 +112,7 @@
       "2024-03-22": 42,
       "2024-03-21": 408,
       "2024-03-20": 807,
-      "2024-03-19": 446
+      "2024-03-19": 489
     }
   },
   {
@@ -526,11 +526,11 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "75.04%",
-    "uptimeWeek": "75.51%",
-    "uptimeMonth": "91.67%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "75.00%",
+    "uptimeWeek": "75.61%",
+    "uptimeMonth": "91.71%",
     "uptimeYear": "99.31%",
     "time": 420,
     "timeDay": 389,
@@ -538,7 +538,7 @@
     "timeMonth": 438,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2025-02-06": 360,
+      "2025-02-06": 361,
       "2025-02-05": 366,
       "2025-02-04": 317,
       "2025-02-03": 359,
@@ -549,7 +549,7 @@
       "2025-01-29": 374,
       "2025-01-28": 281,
       "2025-01-27": 168,
-      "2025-01-26": 137
+      "2025-01-26": 116
     }
   },
   {
@@ -691,9 +691,9 @@
     "slug": "30",
     "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "65.63%",
-    "uptimeWeek": "95.09%",
-    "uptimeMonth": "98.87%",
+    "uptimeDay": "64.84%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "98.84%",
     "uptimeYear": "99.11%",
     "time": 889,
     "timeDay": 0,
@@ -701,7 +701,7 @@
     "timeMonth": 680,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2025-02-06": 495,
+      "2025-02-06": 506,
       "2024-10-02": 109,
       "2024-10-01": 1440,
       "2024-09-30": 520,
