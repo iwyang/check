@@ -38,7 +38,7 @@
     "timeDay": 2113,
     "timeWeek": 2001,
     "timeMonth": 1886,
-    "timeYear": 1934,
+    "timeYear": 1935,
     "dailyMinutesDown": {
       "2025-02-07": 52,
       "2025-02-06": 21,
@@ -467,7 +467,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.leonus.cn.ico",
     "slug": "20-leonus",
     "status": "up",
-    "uptime": "95.41%",
+    "uptime": "95.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "71.79%",
@@ -527,18 +527,19 @@
     "url": "https://blog.eurkon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.eurkon.com.ico",
     "slug": "21-eurkon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "80.40%",
-    "uptimeWeek": "76.52%",
-    "uptimeMonth": "91.43%",
+    "uptimeDay": "81.71%",
+    "uptimeWeek": "77.21%",
+    "uptimeMonth": "91.48%",
     "uptimeYear": "99.29%",
     "time": 420,
-    "timeDay": 543,
-    "timeWeek": 451,
+    "timeDay": 532,
+    "timeWeek": 450,
     "timeMonth": 443,
     "timeYear": 422,
     "dailyMinutesDown": {
+      "2025-02-09": 1,
       "2025-02-08": 282,
       "2025-02-07": 325,
       "2025-02-06": 360,
@@ -550,7 +551,7 @@
       "2025-01-31": 363,
       "2025-01-30": 252,
       "2025-01-29": 374,
-      "2025-01-28": 84
+      "2025-01-28": 58
     }
   },
   {
