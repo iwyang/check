@@ -32,7 +32,7 @@
     "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.75%",
+    "uptimeMonth": "92.93%",
     "uptimeYear": "93.39%",
     "time": 1951,
     "timeDay": 1680,
@@ -180,18 +180,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/eallion.com.ico",
     "slug": "10",
     "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "98.79%",
+    "uptime": "98.30%",
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "98.77%",
     "time": 2622,
     "timeDay": 1996,
     "timeWeek": 2027,
     "timeMonth": 1718,
     "timeYear": 2597,
     "dailyMinutesDown": {
-      "2025-02-17": 0,
+      "2025-02-18": 75,
+      "2025-02-17": 2,
       "2025-02-14": 17,
       "2025-02-12": 18,
       "2025-02-10": 18,
@@ -476,7 +477,7 @@
     "uptime": "95.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.09%",
+    "uptimeMonth": "98.27%",
     "uptimeYear": "90.05%",
     "time": 1530,
     "timeDay": 1315,
@@ -655,8 +656,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 628,
       "2024-02-23": 39,
-      "2024-02-21": 16,
-      "2024-02-19": 24
+      "2024-02-21": 16
     }
   },
   {
@@ -669,7 +669,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.89%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 891,
     "timeDay": 537,
     "timeWeek": 612,
@@ -688,8 +688,7 @@
       "2024-05-21": 94,
       "2024-04-20": 17,
       "2024-03-31": 19,
-      "2024-02-28": 211,
-      "2024-02-19": 116
+      "2024-02-28": 211
     }
   },
   {
