@@ -131,7 +131,7 @@
     "timeDay": 1541,
     "timeWeek": 1538,
     "timeMonth": 1446,
-    "timeYear": 1754,
+    "timeYear": 1755,
     "dailyMinutesDown": {
       "2024-12-27": 102,
       "2024-12-09": 697,
@@ -189,7 +189,7 @@
     "timeDay": 2023,
     "timeWeek": 2236,
     "timeMonth": 1835,
-    "timeYear": 2586,
+    "timeYear": 2585,
     "dailyMinutesDown": {
       "2025-02-20": 17,
       "2025-02-19": 42,
@@ -289,7 +289,7 @@
     "timeDay": 185,
     "timeWeek": 317,
     "timeMonth": 336,
-    "timeYear": 335,
+    "timeYear": 334,
     "dailyMinutesDown": {}
   },
   {
@@ -307,7 +307,7 @@
     "timeDay": 1210,
     "timeWeek": 1334,
     "timeMonth": 1192,
-    "timeYear": 1373,
+    "timeYear": 1375,
     "dailyMinutesDown": {
       "2025-02-13": 24,
       "2025-01-26": 34,
@@ -436,7 +436,7 @@
     "timeDay": 1670,
     "timeWeek": 1715,
     "timeMonth": 1713,
-    "timeYear": 1847,
+    "timeYear": 1848,
     "dailyMinutesDown": {
       "2025-02-14": 25,
       "2024-12-29": 29,
@@ -576,19 +576,19 @@
     "url": "https://www.lyshark.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lyshark.com.ico",
     "slug": "27lyshark",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "82.56%",
-    "uptimeWeek": "97.51%",
+    "uptimeDay": "82.52%",
+    "uptimeWeek": "97.50%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "98.71%",
-    "time": 1824,
+    "time": 1823,
     "timeDay": 1691,
     "timeWeek": 1621,
     "timeMonth": 1645,
-    "timeYear": 1836,
+    "timeYear": 1835,
     "dailyMinutesDown": {
-      "2025-02-20": 251,
+      "2025-02-20": 252,
       "2024-12-21": 181,
       "2024-12-20": 1360,
       "2024-12-05": 180,
@@ -618,7 +618,7 @@
     "timeDay": 1856,
     "timeWeek": 1769,
     "timeMonth": 1820,
-    "timeYear": 2175,
+    "timeYear": 2176,
     "dailyMinutesDown": {
       "2025-02-02": 41,
       "2025-02-01": 15,
@@ -677,7 +677,7 @@
     "timeDay": 660,
     "timeWeek": 570,
     "timeMonth": 658,
-    "timeYear": 825,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2025-02-07": 399,
       "2025-02-06": 526,
