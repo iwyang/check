@@ -131,7 +131,7 @@
     "uptimeYear": "98.81%",
     "time": 2519,
     "timeDay": 2160,
-    "timeWeek": 1794,
+    "timeWeek": 1625,
     "timeMonth": 1934,
     "timeYear": 2298,
     "dailyMinutesDown": {
@@ -522,19 +522,19 @@
     "url": "https://blog.aqcoder.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.aqcoder.cn.ico",
     "slug": "23",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.72%",
     "time": 418,
-    "timeDay": 461,
-    "timeWeek": 431,
-    "timeMonth": 441,
+    "timeDay": 440,
+    "timeWeek": 427,
+    "timeMonth": 439,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2025-05-07": 1,
+      "2025-05-07": 22,
       "2024-05-12": 169,
       "2024-05-11": 1271
     }
@@ -655,19 +655,19 @@
     "url": "https://cworld.top/",
     "icon": "https://icons.duckduckgo.com/ip3/cworld.top.ico",
     "slug": "31-c-world-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 265,
-    "timeDay": 285,
-    "timeWeek": 222,
-    "timeMonth": 244,
+    "timeDay": 290,
+    "timeWeek": 230,
+    "timeMonth": 246,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-05-07": 1
+      "2025-05-07": 22
     }
   }
 ]
