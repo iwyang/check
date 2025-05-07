@@ -31,15 +31,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lixingyong.com.ico",
     "slug": "05-takagi",
     "status": "up",
-    "uptime": "97.16%",
+    "uptime": "97.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "78.93%",
+    "uptimeMonth": "78.99%",
     "uptimeYear": "92.25%",
     "time": 2104,
     "timeDay": 2381,
     "timeWeek": 2614,
-    "timeMonth": 2258,
+    "timeMonth": 2242,
     "timeYear": 2145,
     "dailyMinutesDown": {
       "2025-05-06": 25,
@@ -399,7 +399,7 @@
     "uptimeYear": "99.81%",
     "time": 1835,
     "timeDay": 1594,
-    "timeWeek": 1683,
+    "timeWeek": 1662,
     "timeMonth": 1896,
     "timeYear": 1849,
     "dailyMinutesDown": {
@@ -522,10 +522,10 @@
     "url": "https://blog.aqcoder.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.aqcoder.cn.ico",
     "slug": "23",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 418,
@@ -534,6 +534,7 @@
     "timeMonth": 441,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2025-05-07": 1,
       "2024-05-12": 169,
       "2024-05-11": 1271
     }
@@ -654,10 +655,10 @@
     "url": "https://cworld.top/",
     "icon": "https://icons.duckduckgo.com/ip3/cworld.top.ico",
     "slug": "31-c-world-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 265,
@@ -665,6 +666,8 @@
     "timeWeek": 222,
     "timeMonth": 244,
     "timeYear": 265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 1
+    }
   }
 ]
