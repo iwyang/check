@@ -302,7 +302,7 @@
     "timeMonth": 449,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2025-11-23": 98,
+      "2025-11-23": 105,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1424,
@@ -680,7 +680,7 @@
     "status": "up",
     "uptime": "98.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.38%",
+    "uptimeWeek": "84.45%",
     "uptimeMonth": "85.05%",
     "uptimeYear": "97.26%",
     "time": 699,
